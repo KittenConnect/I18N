@@ -1,7 +1,7 @@
 {
   "404": {
-    "title": "هذه الصفحة ذهبت للصيد.",
-    "text": "إذا كنت تشعر أنها ليست صحيحة ، يرجى إرسال رسالة إلينا على ",
+    "title": "This page's gone fishing",
+    "text": "If you feel that it's not right, please send us a message at",
     "back_button": "العودة إلى لوحة المعلومات"
   },
   "auth": {
