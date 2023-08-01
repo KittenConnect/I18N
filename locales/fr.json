@@ -1,414 +1,414 @@
 {
   "404": {
-    "title": "This page's gone fishing",
-    "text": "If you feel that it's not right, please send us a message at",
-    "back_button": "Back to dashboard"
+    "title": "Pêche sur cette page",
+    "text": "Si vous pensez que ce n'est pas juste, envoyez-nous un message à",
+    "back_button": "Retour au tableau de bord"
   },
   "auth": {
     "agree": "J'accepte",
-    "email": "Email",
-    "login": "Login",
-    "password": "Password",
-    "recover_password": "Recover password",
-    "sign_up": "Sign Up",
-    "keep_logged_in": "Keep me logged in",
-    "termsOfUse": "Terms of Use",
-    "reset_password": "Reset password",
-    "user": "User"
+    "email": "Courriel",
+    "login": "Connexion",
+    "password": "Mot de passe",
+    "recover_password": "Récupérer votre mot de passe",
+    "sign_up": "Inscription",
+    "keep_logged_in": "Gardez-moi connecté",
+    "termsOfUse": "Conditions d'utilisation",
+    "reset_password": "Réinitialiser le mot de passe",
+    "user": "Utilisateur"
   },
   "rating": {
-    "singleIcon": "Single Icon",
-    "twoIcons": "Two Icons",
-    "large": "Large",
-    "numbers": "Numbers",
-    "halves": "Halves",
-    "small": "Small"
+    "singleIcon": "Icône simple",
+    "twoIcons": "Deux icônes",
+    "large": "Gros",
+    "numbers": "Numéros",
+    "halves": "Moitiés",
+    "small": "Petit"
   },
   "typography": {
-    "primary": "Primary text styles",
-    "secondary": "Secondary text styles"
+    "primary": "Styles de texte principal",
+    "secondary": "Styles de texte secondaire"
   },
   "buttons": {
-    "advanced": "Buttons With Icons",
-    "size": "Button Sizes",
-    "tags": "Button Tags",
-    "button": "Button",
-    "buttonGroups": "Button Groups",
-    "buttonsDropdown": "Buttons with dropdown",
-    "split": "Split",
-    "splitTo": "Split to",
-    "customIcon": "Custom icon",
-    "content": "Content",
-    "buttonToggles": "Button Toggles",
+    "advanced": "Boutons avec icônes",
+    "size": "Tailles des boutons",
+    "tags": "Tags des boutons",
+    "button": "Bouton",
+    "buttonGroups": "Groupes de boutons",
+    "buttonsDropdown": "Boutons avec menu déroulant",
+    "split": "Diviser",
+    "splitTo": "Diviser en",
+    "customIcon": "Icône personnalisée",
+    "content": "Contenus",
+    "buttonToggles": "Boutons basculants",
     "pagination": "Pagination",
     "a-link": "Open EpicSpinners",
-    "router-link": "Move to Charts",
-    "colors": "Button Colors",
-    "disabled": "Disabled",
-    "types": "Button Types",
-    "default": "Default",
-    "outline": "Outline",
-    "flat": "Flat",
-    "large": "Large",
-    "small": "Small",
-    "normal": "Normal",
-    "success": "Success",
-    "info": "Info",
+    "router-link": "Déplacer vers les cartes",
+    "colors": "Couleurs des boutons",
+    "disabled": "Désactivé",
+    "types": "Types de boutons",
+    "default": "Par défaut",
+    "outline": "Contour",
+    "flat": "Plat",
+    "large": "Gros",
+    "small": "Petit",
+    "normal": "Normale",
+    "success": "Succès",
+    "info": "Infos",
     "danger": "Danger",
-    "warning": "Warning",
-    "gray": "Gray",
-    "dark": "Dark"
+    "warning": "Avertissement",
+    "gray": "Gris",
+    "dark": "Sombre"
   },
   "charts": {
-    "horizontalBarChart": "Horizontal Bar Chart",
-    "verticalBarChart": "Vertical Bar Chart",
-    "lineChart": "Line Chart",
-    "pieChart": "Pie Chart",
-    "donutChart": "Donut Chart",
-    "bubbleChart": "Bubble Chart"
+    "horizontalBarChart": "Graphique à barres horizontal",
+    "verticalBarChart": "Graphique à barres verticales",
+    "lineChart": "Graphique en ligne",
+    "pieChart": "Graphique à l'arc",
+    "donutChart": "Graphique en anneau",
+    "bubbleChart": "Graphique de bulles"
   },
   "collapse": {
-    "basic": "Basic Collapse",
-    "collapseWithBackground": "Collapse with background",
-    "collapseWithCustomHeader": "Collapse with custom header",
-    "firstHeader": "Expand This Block",
-    "secondHeader": "Another Block",
+    "basic": "Refroidissement basique",
+    "collapseWithBackground": "Réduire avec l'arrière-plan",
+    "collapseWithCustomHeader": "Réduire avec un en-tête personnalisé",
+    "firstHeader": "Développer ce bloc",
+    "secondHeader": "Un autre bloc",
     "content": {
-      "title": "Great Things",
-      "text": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life."
+      "title": "Des choses géniales",
+      "text": "Il y a quelque chose à propos de la parentalité qui nous donne un sens de l'histoire et un désir profondément enraciné de transmettre à la prochaine génération les grandes choses que nous avons découvertes sur la vie."
     }
   },
   "sliders": {
-    "slider": "Sliders",
-    "range": "Ranges",
+    "slider": "Curseurs",
+    "range": "Intervalles",
     "simple": "simple",
-    "value": "Value",
-    "label": "Label",
-    "labelPlusIcon": "label + icon",
-    "pins": "Pins",
-    "pinsAndValue": "pins & value",
-    "withInput": "With input",
-    "withIcons": "With icons"
+    "value": "Valeur",
+    "label": "Étiquette",
+    "labelPlusIcon": "étiquette + icône",
+    "pins": "Épingles",
+    "pinsAndValue": "broches et valeur",
+    "withInput": "Avec entrée",
+    "withIcons": "Avec icônes"
   },
   "popovers": {
-    "popoverStyle": "Popover Style",
-    "popoverPlacement": "Popover Placement"
+    "popoverStyle": "Style Popover",
+    "popoverPlacement": "Placement de popover"
   },
   "dashboard": {
-    "setupRemoteConnections": "Setup Remote Connections",
-    "currentVisitors": "Current Visitors",
+    "setupRemoteConnections": "Configurer les connexions distantes",
+    "currentVisitors": "Visiteurs actuels",
     "charts": {
-      "trendyTrends": "Trendy Trends",
-      "showInMoreDetail": "Show in more detail",
-      "showInLessDetail": "Show in less detail",
-      "loadingSpeed": "Loading speed",
-      "topContributors": "Top contributors",
-      "showNextFive": "Show next five",
-      "commits": "Commits"
+      "trendyTrends": "Tendances tendances",
+      "showInMoreDetail": "Afficher en plus de détails",
+      "showInLessDetail": "Afficher en moins de détails",
+      "loadingSpeed": "Vitesse de chargement",
+      "topContributors": "Meilleurs contributeurs",
+      "showNextFive": "Afficher les cinq suivants",
+      "commits": "Commis"
     },
     "info": {
-      "componentRichTheme": "component-rich theme",
-      "completedPullRequests": "completed pull requests",
-      "users": "users",
-      "points": "points",
-      "units": "units",
-      "exploreGallery": "Explore gallery",
-      "viewLibrary": "View Library"
+      "componentRichTheme": "thème riche en composants",
+      "completedPullRequests": "demandes d'ajout complétées",
+      "users": "utilisateurs",
+      "points": "Points",
+      "units": "Unités",
+      "exploreGallery": "Explorer la galerie",
+      "viewLibrary": "Voir la bibliothèque"
     },
     "tabs": {
       "overview": {
-        "title": "Overview",
-        "built": "Built with Vue.js framework",
-        "free": "Absolutely free for everyone",
-        "fresh": "Fresh and crisp design",
-        "mobile": "Responsive and optimized for mobile",
-        "components": "Tons of useful components",
-        "nojQuery": "Completely jQuery free"
+        "title": "Aperçu",
+        "built": "Construit avec le framework Vue.js",
+        "free": "Absolument gratuit pour tout le monde",
+        "fresh": "Conception fraîche et nette",
+        "mobile": "Adaptable et optimisé pour mobile",
+        "components": "Des tonnes de composants utiles",
+        "nojQuery": "Complètement sans jQuery"
       },
       "billingAddress": {
-        "title": "Billing Address",
-        "personalInfo": "Personal Info",
-        "firstName": "First name & Last Name",
-        "email": "Email",
-        "address": "Address",
-        "companyInfo": "Company Info",
-        "city": "City",
-        "country": "Country",
-        "infiniteConnections": "Infinite connections",
-        "addConnection": "Add Connection"
+        "title": "Adresse de facturation",
+        "personalInfo": "Infos personnelles",
+        "firstName": "Prénom & Nom",
+        "email": "Courriel",
+        "address": "Adresses",
+        "companyInfo": "Informations sur la société",
+        "city": "Ville",
+        "country": "Pays",
+        "infiniteConnections": "Connexions infinies",
+        "addConnection": "Ajouter une connexion"
       },
       "bankDetails": {
-        "title": "Bank Details",
-        "detailsFields": "Details Fields",
-        "bankName": "Bank Name",
-        "accountName": "Account Name",
-        "sortCode": "Sort Code",
-        "accountNumber": "Account Number",
+        "title": "Coordonnées bancaires",
+        "detailsFields": "Champs de détails",
+        "bankName": "Nom de la banque",
+        "accountName": "Nom du compte",
+        "sortCode": "Code de tri",
+        "accountNumber": "Numéro de compte",
         "notes": "Notes",
-        "sendDetails": "Send Details"
+        "sendDetails": "Envoyer les détails"
       }
     },
-    "navigationLayout": "navigation layout",
-    "topBarButton": "Top Bar",
-    "sideBarButton": "Side Bar"
+    "navigationLayout": "disposition de navigation",
+    "topBarButton": "Barre supérieure",
+    "sideBarButton": "Barre latérale"
   },
   "notificationsPage": {
     "notifications": {
       "title": "Notifications",
-      "gray": "Processing",
-      "dark": "New Label",
-      "success": "Paid",
-      "successMessage": "You successfully read this important alert message.",
-      "info": "Info",
-      "infoMessage": "This alert needs your attention, but it's not super important.",
-      "warning": "On Hold",
-      "warningMessage": "Better check yourself, you're not looking too good.",
+      "gray": "Traitement en cours",
+      "dark": "Nouveau libellé",
+      "success": "Payé",
+      "successMessage": "Vous avez lu avec succès ce message d'alerte important.",
+      "info": "Infos",
+      "infoMessage": "Cette alerte requiert votre attention, mais ce n'est pas super important.",
+      "warning": "En attente",
+      "warningMessage": "Mieux vaut vérifier vous-même, vous n'avez pas l'air trop beau.",
       "danger": "Danger",
-      "dangerMessage": "Change a few things up and try submitting again."
+      "dangerMessage": "Changez quelques choses et essayez de soumettre à nouveau."
     },
     "popovers": {
       "showPopover": "Show Popover",
-      "topTooltip": "top",
-      "rightTooltip": "rightside",
-      "leftTooltip": "left",
-      "bottomTooltip": "below"
+      "topTooltip": "en haut",
+      "rightTooltip": "à droite",
+      "leftTooltip": "à gauche",
+      "bottomTooltip": "en dessous de"
     },
     "toasts": {
       "title": "Toasts",
-      "textLabel": "Text",
-      "durationLabel": "Duration (milliseconds)",
-      "launchToast": "Launch toast"
+      "textLabel": "Texte du texte",
+      "durationLabel": "Durée (en millisecondes)",
+      "launchToast": "Lancer le toast"
     }
   },
   "forms": {
     "controls": {
-      "title": "Checkboxes, Radios, Switches, Toggles",
-      "unselected": "Unselected checkbox",
-      "selected": "Selected checkbox",
-      "readonly": "Readonly checkbox",
-      "disabled": "Disabled checkbox",
-      "error": "Checkbox with error",
-      "errorMessage": "Checkbox with error messages"
+      "title": "Caisses à cocher, Radios, interrupteurs, interrupteurs",
+      "unselected": "Case à cocher désélectionnée",
+      "selected": "Case à cocher sélectionnée",
+      "readonly": "Case à cocher en lecture seule",
+      "disabled": "Case à cocher désactivée",
+      "error": "Case à cocher avec erreur",
+      "errorMessage": "Case à cocher avec les messages d'erreur"
     },
     "dateTimePicker": {
-      "title": "Date time pickers",
-      "basic": "Basic",
+      "title": "Sélecteurs de date",
+      "basic": "Basique",
       "range": "Range",
-      "manualInput": "Manual input",
-      "multiple": "Multiple",
-      "disabled": "Disabled",
-      "customFirstDay": "Custom first day"
+      "manualInput": "Saisie manuelle",
+      "multiple": "Multiples",
+      "disabled": "Désactivé",
+      "customFirstDay": "Personnaliser le premier jour"
     },
     "inputs": {
       "title": "Inputs",
-      "username": "Username"
+      "username": "Nom d’utilisateur"
     },
     "mediumEditor": {
-      "title": "Medium Editor"
+      "title": "Éditeur moyen"
     },
     "selects": {
-      "country": "Country Select",
-      "countryMulti": "Country Multi Select",
-      "multi": "Multi Select",
-      "simple": "Simple Select",
-      "searchable": "Select with search",
-      "searchableMulti": "Multi Select with search",
-      "title": "Selects"
+      "country": "Sélection du pays",
+      "countryMulti": "Pays à choix multiple",
+      "multi": "Sélection multiple",
+      "simple": "Sélection simple",
+      "searchable": "Sélectionner avec la recherche",
+      "searchableMulti": "Sélection multiple avec recherche",
+      "title": "Sélectionne"
     }
   },
   "icons": {
-    "back": "Back to all icons",
-    "none": "No icons found",
-    "search": "Icon search"
+    "back": "Retour à toutes les icônes",
+    "none": "Aucune icône trouvée",
+    "search": "Recherche d'icônes"
   },
   "spinners": {
     "title": "Spinners"
   },
   "menu": {
-    "colorPickers": "Color Pickers"
+    "colorPickers": "Sélecteurs de couleurs"
   },
   "messages": {
-    "all": "See all messages",
-    "mark_as_read": "Mark As Read"
+    "all": "Voir tous les messages",
+    "mark_as_read": "Marquer comme lu"
   },
   "modal": {
-    "cancel": "Cancel",
-    "confirm": "Confirm",
-    "large": "Large",
-    "largeTitle": "Large Modal",
-    "medium": "Medium",
-    "mediumTitle": "Medium Modal",
-    "small": "Small",
-    "smallTitle": "Small Modal",
-    "static": "Static",
-    "staticMessage": "This is a static modal, backdrop or escape click will not close it.",
-    "staticTitle": "Static Modal",
-    "title": "Modals",
-    "fullscreen": "Fullscreen",
-    "titleOptions": "Modal Options",
-    "blurred": "Blurred overlay",
-    "withAnchorSlot": "With anchor slot",
+    "cancel": "Abandonner",
+    "confirm": "Valider",
+    "large": "Gros",
+    "largeTitle": "Grande modale",
+    "medium": "Moyenne",
+    "mediumTitle": "Moyenne modale",
+    "small": "Petit",
+    "smallTitle": "Petite modale",
+    "static": "Statique",
+    "staticMessage": "Il s'agit d'un modal statique, d'un backdrop ou d'un clic d'échappement ne le fermera pas.",
+    "staticTitle": "Modal statique",
+    "title": "Modales",
+    "fullscreen": "Plein écran",
+    "titleOptions": "Options modales",
+    "blurred": "Superposition floue",
+    "withAnchorSlot": "Avec emplacement d'ancre",
     "message": "There are three species of zebras: the plains zebra, the mountain zebra and the Grévy's zebra. The plains zebra and the mountain zebra belong to the subgenus Hippotigris, but Grévy's\n        zebra is the sole species of subgenus\n        Dolichohippus. The latter resembles an ass, to which it is closely\n        related, while the former two are more\n        horse-like. All three belong to the genus Equus, along with other living\n        equids.",
-    "error": "An error occured"
+    "error": "Une erreur est survenue"
   },
   "fileUpload": {
-    "advancedMediaGallery": "Advanced, Media Gallery",
-    "advancedUploadList": "Advanced, Upload List",
-    "mediaGallery": "Media Gallery",
-    "uploadList": "Upload List",
-    "single": "Single"
+    "advancedMediaGallery": "Avancé, Galerie de médias",
+    "advancedUploadList": "Avancé, Liste de Téléversement",
+    "mediaGallery": "Galerie de médias",
+    "uploadList": "Charger une liste",
+    "single": "Simple"
   },
   "chips": {
     "chips": {
-      "title": "Chips",
-      "primary": "Primary chip",
-      "secondary": "Secondary chip",
-      "success": "Success chip",
-      "info": "Info chip",
-      "danger": "Danger chip",
-      "warning": "Warning chip",
-      "gray": "Gray chip",
-      "dark": "Dark chip"
+      "title": "Jetons",
+      "primary": "Puce primaire",
+      "secondary": "Puce secondaire",
+      "success": "Puce de Succès",
+      "info": "Info puce",
+      "danger": "Jeton de danger",
+      "warning": "Puce d'avertissement",
+      "gray": "Jeton gris",
+      "dark": "Jeton foncé"
     },
     "badges": {
       "title": "Badges",
-      "primary": "Primary badge",
-      "secondary": "Secondary badge",
-      "success": "Success badge",
-      "info": "Info badge",
-      "danger": "Danger badge",
-      "warning": "Warning badge",
-      "gray": "Gray badge",
-      "dark": "Dark badge"
+      "primary": "Insigne primaire",
+      "secondary": "Insigne secondaire",
+      "success": "Insigne de succès",
+      "info": "Insigne Infos",
+      "danger": "Insigne de danger",
+      "warning": "Badge d'avertissement",
+      "gray": "Insigne gris",
+      "dark": "Insigne sombre"
     }
   },
   "navbar": {
-    "messageUs": "Web development inquiries:",
+    "messageUs": "Demandes de développement Web:",
     "repository": "GitHub Repo"
   },
   "notifications": {
-    "all": "See all notifications",
-    "mark_as_read": "Mark as read"
+    "all": "Voir toutes les notifications",
+    "mark_as_read": "Marquer comme lu"
   },
   "timelines": {
     "horizontalSimple": "Horizontal Simple",
-    "horizontalCards": "Horizontal Cards",
-    "verticalLabel": "Vertical With Label",
-    "verticalCentered": "Vertical Centered",
-    "horizontalActionFirst": "Complete drafts",
-    "horizontalActionSecond": "Push site live",
-    "horizontalActionThird": "Start ICO",
-    "titleFirst": "Make design",
-    "titleSecond": "Develop an app",
-    "titleThird": "Submit an app",
-    "titleDateSecond": "May 22 10:00",
-    "titleDateThird": "July 19 17:45",
-    "firstDate": "February 2018",
-    "secondDate": "March 2018",
-    "thirdDate": "April 2018",
-    "contentFirst": "The unique stripes of zebras make them one of the animals most familiar to people. They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands.",
-    "contentSecond": "They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands.",
-    "contentThird": "However, various anthropogenic factors have had a severe impact on zebra populations"
+    "horizontalCards": "Cartes horizontales",
+    "verticalLabel": "Vertical avec étiquette",
+    "verticalCentered": "Centré verticalement",
+    "horizontalActionFirst": "Compléter les brouillons",
+    "horizontalActionSecond": "Envoyer le site en direct",
+    "horizontalActionThird": "Démarrer l'ICO",
+    "titleFirst": "Créer un design",
+    "titleSecond": "Développer une application",
+    "titleThird": "Soumettre une application",
+    "titleDateSecond": "22 mai 10",
+    "titleDateThird": "19 juillet 17:45",
+    "firstDate": "Février 2018",
+    "secondDate": "Mars 2018",
+    "thirdDate": "Avril 2018",
+    "contentFirst": "Les rayures uniques de zèbres en font un des animaux les plus familiers aux gens. Ils se produisent dans une variété d'habitats tels que les prairies, les savanes, les forêts, les épineux.",
+    "contentSecond": "Ils se produisent dans une variété d'habitats tels que les prairies, les savanes, les forêts, les épineux.",
+    "contentThird": "Cependant, divers facteurs anthropogéniques ont eu un impact grave sur les populations de zèbres"
   },
   "progressBars": {
-    "circle": "Circle",
+    "circle": "Cercle",
     "horizontal": "Horizontal",
-    "state": "State",
-    "colors": "Colors"
+    "state": "État",
+    "colors": "Couleurs"
   },
   "lists": {
-    "customers": "Customers",
-    "recentMessages": "Recent Messages",
-    "archieved": "Archieved",
-    "starterKit": "Starter Kit",
+    "customers": "Clients",
+    "recentMessages": "Messages récents",
+    "archieved": "Archivé",
+    "starterKit": "Kit de démarrage",
     "notifications": "Notifications",
-    "routerSupport": "Router Support"
+    "routerSupport": "Support du routeur"
   },
   "tables": {
-    "basic": "Basic Table",
-    "stripedHoverable": "Striped, Hoverable",
-    "labelsActions": "Labels, Actions as Buttons",
-    "sortingPaginationActionsAsIcons": "Sorting, Pagination, Actions as Icons",
-    "star": "Star",
-    "unstar": "Unstar",
-    "edit": "Edit",
-    "delete": "Delete",
-    "searchByName": "Search by name",
-    "searchTrendsBadges": "Search, Trends, Badges",
-    "perPage": "Per Page",
-    "report": "Report",
-    "infiniteScroll": "Infinite Scroll",
-    "selectable": "Selectable",
-    "selected": "Selected",
-    "serverSidePagination": "Server-Side Pagination",
-    "emptyTable": "Empty Table",
-    "noReport": "There is no data to display. Report will be available on November 3, 2018.",
-    "loading": "Loading",
+    "basic": "Table de base",
+    "stripedHoverable": "Rayé, Hoverable",
+    "labelsActions": "Étiquettes, Actions comme Boutons",
+    "sortingPaginationActionsAsIcons": "Tri, Pagination, Actions en tant qu'icônes",
+    "star": "Étoiles",
+    "unstar": "Retirer des favoris",
+    "edit": "Editer",
+    "delete": "Supprimez",
+    "searchByName": "Rechercher par nom",
+    "searchTrendsBadges": "Recherche, tendances, badges",
+    "perPage": "Par page",
+    "report": "Rapporter",
+    "infiniteScroll": "Parchemin infini",
+    "selectable": "Sélectionnable",
+    "selected": "Sélectionnés",
+    "serverSidePagination": "Pagination côté serveur",
+    "emptyTable": "Table vide",
+    "noReport": "Il n'y a pas de données à afficher. Le rapport sera disponible le 3 novembre 2018.",
+    "loading": "En cours de chargement",
     "headings": {
-      "email": "Email",
-      "name": "Name",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "status": "Status",
-      "country": "Country"
+      "email": "Courriel",
+      "name": "Nom",
+      "firstName": "Prénom",
+      "lastName": "Nom de famille",
+      "status": "Statut",
+      "country": "Pays"
     }
   },
   "treeView": {
-    "basic": "Basic",
-    "icons": "Icons",
-    "selectable": "Selectable",
-    "editable": "Editable",
-    "advanced": "Advanced"
+    "basic": "Basique",
+    "icons": "Icônes",
+    "selectable": "Sélectionnable",
+    "editable": "Modifiable",
+    "advanced": "Avancé"
   },
   "chat": {
-    "title": "Chat",
-    "sendButton": "Send"
+    "title": "Discuter",
+    "sendButton": "Envoyer"
   },
   "cards": {
-    "contentText": "The unique stripes of zebras make them one of the animals most familiar to people.",
-    "contentTextLong": "The unique stripes of zebras make them one of the animals most familiar to people. They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands, mountains, and coastal hills. Various anthropogenic factors have had a severe impact on zebra populations, in particular hunting for skins and habitat destruction. Grévy's zebra and the mountain zebra are endangered. While plains zebras are much more plentiful, one subspecies, the quagga.",
+    "contentText": "Les rayures uniques de zèbres en font un des animaux les plus familiers aux gens.",
+    "contentTextLong": "Les rayures uniques de zèbres en font un des animaux les plus familiers aux gens. Ils se produisent dans une variété d'habitats tels que les prairies, les savanes, les forêts, les épineux, les montagnes et les collines côtières. Divers facteurs anthropiques ont eu un impact grave sur les populations de zèbres, en particulier la chasse à la peau et la destruction de l'habitat. Les zèbres de Grevy et les zèbres de montagne sont menacés. Alors que les plaines zèbres sont beaucoup plus abondantes, une sous-espèce, le quagga.",
     "title": {
-      "default": "Default",
-      "withControls": "With controls",
-      "customHeader": "Custom header",
-      "withoutHeader": "Without header",
-      "withImage": "With Image",
-      "withTitleOnImage": "With title on image",
-      "withStripe": "With stripe"
+      "default": "Par défaut",
+      "withControls": "Avec des contrôles",
+      "customHeader": "En-tête personnalisé",
+      "withoutHeader": "Sans en-tête",
+      "withImage": "Avec Image",
+      "withTitleOnImage": "Avec le titre sur l'image",
+      "withStripe": "Avec rayure"
     },
     "button": {
-      "showMore": "Show More",
-      "readMore": "Show More"
+      "showMore": "Afficher plus",
+      "readMore": "Afficher plus"
     }
   },
   "colors": {
-    "themeColors": "Theme Colors",
-    "extraColors": "Extra Colors",
+    "themeColors": "Couleurs du thème",
+    "extraColors": "Couleurs Supplémentaires",
     "gradients": {
       "basic": {
-        "title": "Button Gradients"
+        "title": "Dégradés des boutons"
       },
       "hovered": {
-        "title": "Hovered Button Gradients",
-        "text": "Lighten 15% applied to an original style (gradient or flat color) for hover state."
+        "title": "Dégradés des boutons survolés",
+        "text": "Éclaircir 15% appliqué à un style original (gradient ou couleur plate) pour le survol."
       },
       "pressed": {
-        "title": "Pressed Button Gradients",
-        "text": "Darken 15% applied to an original style (gradient or flat color) for pressed state."
+        "title": "Dégradés des boutons pressés",
+        "text": "Assombrir 15% appliqué à un style original (gradient ou couleur plate) pour un état pressé."
       }
     }
   },
   "tabs": {
-    "alignment": "Tabs Alignment",
-    "overflow": "Tabs Overflow",
-    "hidden": "Tabs with Hidden slider",
-    "grow": "Tabs Grow"
+    "alignment": "Alignement des onglets",
+    "overflow": "Dépassement d'onglets",
+    "hidden": "Onglets avec curseur caché",
+    "grow": "Agrandissement des onglets"
   },
   "facterstable": {
-    "tabletitle": "Facters",
-    "factersname": "Name",
-    "factersvalue": "Value",
-    "facterskey": "Key"
+    "tabletitle": "Facteurs",
+    "factersname": "Nom",
+    "factersvalue": "Valeur",
+    "facterskey": "Clés"
   },
   "pages": {
     "user": {}
