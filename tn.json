@@ -1,0 +1,417 @@
+{
+  "404": {
+    "title": "هذه الصفحة ذهبت للصيد",
+    "text": "إذا كنت تشعر أنها ليست صحيحة ، يرجى إرسال رسالة إلينا على",
+    "back_button": "العودة إلى لوحة المعلومات"
+  },
+  "auth": {
+    "agree": "موافق",
+    "email": "البريد الإلكتروني",
+    "login": "تسجيل الدخول",
+    "password": "كلمة المرور",
+    "recover_password": "استرجاع كلمة المرور",
+    "sign_up": "تسجيل",
+    "keep_logged_in": "البقاء مسجل الدخول",
+    "termsOfUse": "شروط الاستخدام",
+    "reset_password": "إعادة تعيين كلمة المرور",
+    "user": "User"
+  },
+  "rating": {
+    "singleIcon": "أيقونة واحدة",
+    "twoIcons": "اثنتان من الأيقونات",
+    "large": "كبير",
+    "numbers": "أرقام",
+    "halves": "نصفين",
+    "small": "صغير"
+  },
+  "typography": {
+    "primary": "أنماط النص الأساسية",
+    "secondary": "أنماط النص الثانوي"
+  },
+  "buttons": {
+    "advanced": "أزرار مع رموز",
+    "size": "أحجام الأزرار",
+    "tags": "وسوم الأزرار",
+    "button": "زر",
+    "buttonGroups": "مجموعات الأزرار",
+    "buttonsDropdown": "أزرار مع قائمة منسدلة",
+    "split": "تقسيم",
+    "splitTo": "تقسيم إلى",
+    "customIcon": "أيقونة مخصصة",
+    "content": "المحتوى",
+    "buttonToggles": "تبديل الأزرار",
+    "pagination": "ترقيم الصفحات",
+    "a-link": "فتح EpicSpinners",
+    "router-link": "الانتقال إلى الرسوم البيانية",
+    "colors": "ألوان الأزرار",
+    "disabled": "معطل",
+    "types": "أنواع الأزرار",
+    "default": "افتراضي",
+    "outline": "مخطط",
+    "flat": "مسطح",
+    "large": "كبير",
+    "small": "صغير",
+    "normal": "عادي",
+    "success": "نجاح",
+    "info": "معلومات",
+    "danger": "خطر",
+    "warning": "تحذير",
+    "gray": "رمادي",
+    "dark": "داكن"
+  },
+  "charts": {
+    "horizontalBarChart": "الرسم البياني شريطي أفقي",
+    "verticalBarChart": "الرسم البياني شريطي عمودي",
+    "lineChart": "الرسم البياني خطي",
+    "pieChart": "الرسم البياني دائري",
+    "donutChart": "الرسم البياني دائرة",
+    "bubbleChart": "الرسم البياني فقاعة"
+  },
+  "collapse": {
+    "basic": "التصغير الأساسي",
+    "collapseWithBackground": "التصغير مع خلفية",
+    "collapseWithCustomHeader": "التصغير مع رأس مخصص",
+    "firstHeader": "قم بتوسيع هذا الكتلة",
+    "secondHeader": "كتلة أخرى",
+    "content": {
+      "title": "أشياء عظيمة",
+      "text": "هناك شيء في الأمومة يمنحنا شعورًا بالتاريخ ورغبةً عميقةً في إرسال ما اكتشفناه عن الحياة إلى الجيل القادم."
+    }
+  },
+  "sliders": {
+    "slider": "شرائح",
+    "range": "مدى",
+    "simple": "بسيط",
+    "value": "القيمة",
+    "label": "التسمية",
+    "labelPlusIcon": "التسمية + أيقونة",
+    "pins": "دبابيس",
+    "pinsAndValue": "دبابيس وقيمة",
+    "withInput": "مع إدخال",
+    "withIcons": "مع أيقونات"
+  },
+  "popovers": {
+    "popoverStyle": "نمط البوب أوفر",
+    "popoverPlacement": "موقع البوب أوفر"
+  },
+  "dashboard": {
+    "setupRemoteConnections": "إعداد الاتصالات عن بُعد",
+    "currentVisitors": "الزوار الحاليون",
+    "charts": {
+      "trendyTrends": "الاتجاهات العصرية",
+      "showInMoreDetail": "عرض بالتفصيل أكثر",
+      "showInLessDetail": "عرض بالتفصيل أقل",
+      "loadingSpeed": "سرعة التحميل",
+      "topContributors": "أفضل المساهمين",
+      "showNextFive": "عرض الخمسة التاليين",
+      "commits": "التعهدات"
+    },
+    "info": {
+      "componentRichTheme": "نسق غني بالمكونات",
+      "completedPullRequests": "طلبات الدمج المكتملة",
+      "users": "المستخدمين",
+      "points": "النقاط",
+      "units": "الوحدات",
+      "exploreGallery": "استكشاف المعرض",
+      "viewLibrary": "عرض المكتبة"
+    },
+    "tabs": {
+      "overview": {
+        "title": "نظرة عامة",
+        "built": "تم بناؤه بإطار عمل Vue.js",
+        "free": "مجاني تمامًا للجميع",
+        "fresh": "تصميم طازج ونقي",
+        "mobile": "مستجيب ومحسَّن للأجهزة المحمولة",
+        "components": "العديد من المكونات المفيدة",
+        "nojQuery": "خالٍ تمامًا من jQuery"
+      },
+      "billingAddress": {
+        "title": "عنوان الفوترة",
+        "personalInfo": "معلومات شخصية",
+        "firstName": "الاسم الأول والاسم الأخير",
+        "email": "البريد الإلكتروني",
+        "address": "العنوان",
+        "companyInfo": "معلومات الشركة",
+        "city": "المدينة",
+        "country": "البلد",
+        "infiniteConnections": "اتصالات لا حصر لها",
+        "addConnection": "إضافة اتصال"
+      },
+      "bankDetails": {
+        "title": "تفاصيل الحساب المصرفي",
+        "detailsFields": "حقول التفاصيل",
+        "bankName": "اسم البنك",
+        "accountName": "اسم الحساب",
+        "sortCode": "الرمز البريدي",
+        "accountNumber": "رقم الحساب",
+        "notes": "ملاحظات",
+        "sendDetails": "إرسال التفاصيل"
+      }
+    },
+    "navigationLayout": "تصميم الملاحة",
+    "topBarButton": "زر الشريط العلوي",
+    "sideBarButton": "زر الشريط الجانبي"
+  },
+  "notificationsPage": {
+    "notifications": {
+      "title": "الإشعارات",
+      "gray": "قيد المعالجة",
+      "dark": "تصنيف جديد",
+      "success": "مدفوع",
+      "successMessage": "لقد قرأت بنجاح هذه الرسالة المهمة.",
+      "info": "معلومات",
+      "infoMessage": "هذه الرسالة بحاجة لاهتمامك، ولكنها ليست ضرورية للغاية.",
+      "warning": "معلق",
+      "warningMessage": "أفضل أن تتحقق من نفسك، لا تبدو بحالة جيدة.",
+      "danger": "خطر",
+      "dangerMessage": "قم بتغيير بعض الأمور وحاول إرسال النموذج مرة أخرى."
+    },
+    "popovers": {
+      "showPopover": "عرض البوب أوفر",
+      "topTooltip": "أعلى",
+      "rightTooltip": "على اليمين",
+      "leftTooltip": "على اليسار",
+      "bottomTooltip": "أسفل"
+    },
+    "toasts": {
+      "title": "التوست",
+      "textLabel": "النص",
+      "durationLabel": "المدة (بالميلّي ثانية)",
+      "launchToast": "إطلاق التوست"
+    }
+  },
+  "forms": {
+    "controls": {
+      "title": "مربعات الاختيار، الأزرار الاختيار، المفاتيح، والتبديلات",
+      "unselected": "مربع اختيار غير محدد",
+      "selected": "مربع اختيار محدد",
+      "readonly": "مربع اختيار للقراءة فقط",
+      "disabled": "مربع اختيار معطل",
+      "error": "مربع اختيار مع خطأ",
+      "errorMessage": "مربع اختيار مع رسائل خطأ"
+    },
+    "dateTimePicker": {
+      "title": "أدوات اختيار التاريخ والوقت",
+      "basic": "أساسي",
+      "range": "النطاق",
+      "manualInput": "إدخال يدوي",
+      "multiple": "متعدد",
+      "disabled": "معطل",
+      "customFirstDay": "اليوم الأول المخصص"
+    },
+    "inputs": {
+      "title": "المداخل",
+      "username": "Username"
+    },
+    "mediumEditor": {
+      "title": "المحرر المتوسط"
+    },
+    "selects": {
+      "country": "اختيار البلد",
+      "countryMulti": "اختيار متعدد للبلد",
+      "multi": "اختيار متعدد",
+      "simple": "اختيار بسيط",
+      "searchable": "اختيار مع بحث",
+      "searchableMulti": "اختيار متعدد مع بحث",
+      "title": "اختيارات"
+    }
+  },
+  "icons": {
+    "back": "العودة إلى كل الأيقونات",
+    "none": "لا توجد أيقونات",
+    "search": "البحث عن أيقونة"
+  },
+  "spinners": {
+    "title": "مؤشرات التحميل"
+  },
+  "menu": {
+    "colorPickers": "Color Pickers"
+  },
+  "messages": {
+    "all": "See all messages",
+    "mark_as_read": "Mark As Read"
+  },
+  "modal": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "large": "كبير",
+    "largeTitle": "Large Modal",
+    "medium": "Medium",
+    "mediumTitle": "Medium Modal",
+    "small": "صغير",
+    "smallTitle": "Small Modal",
+    "static": "Static",
+    "staticMessage": "This is a static modal, backdrop or escape click will not close it.",
+    "staticTitle": "Static Modal",
+    "title": "Modals",
+    "fullscreen": "Fullscreen",
+    "titleOptions": "Modal Options",
+    "blurred": "Blurred overlay",
+    "withAnchorSlot": "With anchor slot",
+    "message": "There are three species of zebras: the plains zebra, the mountain zebra and the Grévy's zebra. The plains zebra and the mountain zebra belong to the subgenus Hippotigris, but Grévy's\n        zebra is the sole species of subgenus\n        Dolichohippus. The latter resembles an ass, to which it is closely\n        related, while the former two are more\n        horse-like. All three belong to the genus Equus, along with other living\n        equids.",
+    "error": "An error occured"
+  },
+  "fileUpload": {
+    "advancedMediaGallery": "Advanced, Media Gallery",
+    "advancedUploadList": "Advanced, Upload List",
+    "mediaGallery": "Media Gallery",
+    "uploadList": "Upload List",
+    "single": "Single"
+  },
+  "chips": {
+    "chips": {
+      "title": "Chips",
+      "primary": "Primary chip",
+      "secondary": "Secondary chip",
+      "success": "Success chip",
+      "info": "Info chip",
+      "danger": "Danger chip",
+      "warning": "Warning chip",
+      "gray": "Gray chip",
+      "dark": "Dark chip"
+    },
+    "badges": {
+      "title": "Badges",
+      "primary": "Primary badge",
+      "secondary": "Secondary badge",
+      "success": "Success badge",
+      "info": "Info badge",
+      "danger": "Danger badge",
+      "warning": "Warning badge",
+      "gray": "Gray badge",
+      "dark": "Dark badge"
+    }
+  },
+  "navbar": {
+    "messageUs": "Web development inquiries:",
+    "repository": "GitHub Repo"
+  },
+  "notifications": {
+    "all": "See all notifications",
+    "mark_as_read": "Mark as read"
+  },
+  "timelines": {
+    "horizontalSimple": "Horizontal Simple",
+    "horizontalCards": "Horizontal Cards",
+    "verticalLabel": "Vertical With Label",
+    "verticalCentered": "Vertical Centered",
+    "horizontalActionFirst": "Complete drafts",
+    "horizontalActionSecond": "Push site live",
+    "horizontalActionThird": "Start ICO",
+    "titleFirst": "Make design",
+    "titleSecond": "Develop an app",
+    "titleThird": "Submit an app",
+    "titleDateSecond": "May 22 10:00",
+    "titleDateThird": "July 19 17:45",
+    "firstDate": "February 2018",
+    "secondDate": "March 2018",
+    "thirdDate": "April 2018",
+    "contentFirst": "The unique stripes of zebras make them one of the animals most familiar to people. They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands.",
+    "contentSecond": "They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands.",
+    "contentThird": "However, various anthropogenic factors have had a severe impact on zebra populations"
+  },
+  "progressBars": {
+    "circle": "Circle",
+    "horizontal": "Horizontal",
+    "state": "State",
+    "colors": "Colors"
+  },
+  "lists": {
+    "customers": "Customers",
+    "recentMessages": "Recent Messages",
+    "archieved": "Archieved",
+    "starterKit": "Starter Kit",
+    "notifications": "الإشعارات",
+    "routerSupport": "Router Support"
+  },
+  "tables": {
+    "basic": "Basic Table",
+    "stripedHoverable": "Striped, Hoverable",
+    "labelsActions": "Labels, Actions as Buttons",
+    "sortingPaginationActionsAsIcons": "Sorting, Pagination, Actions as Icons",
+    "star": "Star",
+    "unstar": "Unstar",
+    "edit": "Edit",
+    "delete": "Delete",
+    "searchByName": "Search by name",
+    "searchTrendsBadges": "Search, Trends, Badges",
+    "perPage": "Per Page",
+    "report": "Report",
+    "infiniteScroll": "Infinite Scroll",
+    "selectable": "Selectable",
+    "selected": "Selected",
+    "serverSidePagination": "Server-Side Pagination",
+    "emptyTable": "Empty Table",
+    "noReport": "There is no data to display. Report will be available on November 3, 2018.",
+    "loading": "Loading",
+    "headings": {
+      "email": "البريد الإلكتروني",
+      "name": "Name",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "status": "Status",
+      "country": "البلد"
+    }
+  },
+  "treeView": {
+    "basic": "أساسي",
+    "icons": "الأيقونات",
+    "selectable": "Selectable",
+    "editable": "Editable",
+    "advanced": "متقدم"
+  },
+  "chat": {
+    "title": "Chat",
+    "sendButton": "Send"
+  },
+  "cards": {
+    "contentText": "The unique stripes of zebras make them one of the animals most familiar to people.",
+    "contentTextLong": "The unique stripes of zebras make them one of the animals most familiar to people. They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands, mountains, and coastal hills. Various anthropogenic factors have had a severe impact on zebra populations, in particular hunting for skins and habitat destruction. Grévy's zebra and the mountain zebra are endangered. While plains zebras are much more plentiful, one subspecies, the quagga.",
+    "title": {
+      "default": "افتراضي",
+      "withControls": "With controls",
+      "customHeader": "Custom header",
+      "withoutHeader": "Without header",
+      "withImage": "With Image",
+      "withTitleOnImage": "With title on image",
+      "withStripe": "With stripe"
+    },
+    "button": {
+      "showMore": "Show More",
+      "readMore": "Show More"
+    }
+  },
+  "colors": {
+    "themeColors": "Theme Colors",
+    "extraColors": "Extra Colors",
+    "gradients": {
+      "basic": {
+        "title": "Button Gradients"
+      },
+      "hovered": {
+        "title": "Hovered Button Gradients",
+        "text": "Lighten 15% applied to an original style (gradient or flat color) for hover state."
+      },
+      "pressed": {
+        "title": "Pressed Button Gradients",
+        "text": "Darken 15% applied to an original style (gradient or flat color) for pressed state."
+      }
+    }
+  },
+  "tabs": {
+    "alignment": "Tabs Alignment",
+    "overflow": "Tabs Overflow",
+    "hidden": "Tabs with Hidden slider",
+    "grow": "Tabs Grow"
+  },
+  "facterstable": {
+    "tabletitle": "Facters",
+    "factersname": "Name",
+    "factersvalue": "القيمة",
+    "facterskey": "Key"
+  },
+  "pages": {
+    "user": {}
+  },
+  "required": {}
+}
