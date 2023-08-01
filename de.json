@@ -1,0 +1,417 @@
+{
+  "404": {
+    "title": "Diese Seite ist nicht mehr fischen",
+    "text": "Wenn Sie der Meinung sind, dass es nicht stimmt, senden Sie uns bitte eine Nachricht unter",
+    "back_button": "Zurück zum Dashboard"
+  },
+  "auth": {
+    "agree": "Ich stimme zu",
+    "email": "E-Mail",
+    "login": "Anmelden",
+    "password": "Passwort",
+    "recover_password": "Passwort wiederherstellen",
+    "sign_up": "Registrieren",
+    "keep_logged_in": "Eingeloggt bleiben",
+    "termsOfUse": "Nutzungsbedingungen",
+    "reset_password": "Passwort zurücksetzen",
+    "user": "Benutzer"
+  },
+  "rating": {
+    "singleIcon": "Einzelnes Symbol",
+    "twoIcons": "Zwei Symbole",
+    "large": "Groß",
+    "numbers": "Nummern",
+    "halves": "Hälften",
+    "small": "Klein"
+  },
+  "typography": {
+    "primary": "Primäre Textstile",
+    "secondary": "Sekundäre Textstile"
+  },
+  "buttons": {
+    "advanced": "Schaltflächen mit Icons",
+    "size": "Schaltflächengröße",
+    "tags": "Schaltflächen-Tags",
+    "button": "Button",
+    "buttonGroups": "Schaltflächengruppen",
+    "buttonsDropdown": "Tasten mit Dropdown",
+    "split": "Aufteilen",
+    "splitTo": "Aufteilen in",
+    "customIcon": "Eigenes Symbol",
+    "content": "Inhalt",
+    "buttonToggles": "Schaltflächenumschalter",
+    "pagination": "Paginierung",
+    "a-link": "Open EpicSpinners",
+    "router-link": "In Diagramme verschieben",
+    "colors": "Schaltflächenfarben",
+    "disabled": "Deaktiviert",
+    "types": "Schaltflächentypen",
+    "default": "Standard",
+    "outline": "Umriss",
+    "flat": "Flache",
+    "large": "Groß",
+    "small": "Klein",
+    "normal": "Normal",
+    "success": "Erfolg",
+    "info": "Info",
+    "danger": "Gefahr",
+    "warning": "Warnung",
+    "gray": "Grau",
+    "dark": "Dunkel"
+  },
+  "charts": {
+    "horizontalBarChart": "Horizontales Balkendiagramm",
+    "verticalBarChart": "Vertikales Balkendiagramm",
+    "lineChart": "Liniendiagramm",
+    "pieChart": "Tortendiagramm",
+    "donutChart": "Donut Chart",
+    "bubbleChart": "Bubble Diagramm"
+  },
+  "collapse": {
+    "basic": "Einfacher Einbruch",
+    "collapseWithBackground": "Mit Hintergrund einklappen",
+    "collapseWithCustomHeader": "Mit benutzerdefiniertem Header einklappen",
+    "firstHeader": "Diesen Block erweitern",
+    "secondHeader": "Ein weiterer Block",
+    "content": {
+      "title": "Großartige Dinge",
+      "text": "Es gibt etwas über Elternschaft, das uns ein Gefühl der Geschichte und einen tief verwurzelten Wunsch gibt, die großen Dinge, die wir über das Leben entdeckt haben, in die nächste Generation zu schicken."
+    }
+  },
+  "sliders": {
+    "slider": "Slider",
+    "range": "Bereiche",
+    "simple": "einfach",
+    "value": "Wert",
+    "label": "Label",
+    "labelPlusIcon": "label + Symbol",
+    "pins": "Pins",
+    "pinsAndValue": "pins & Wert",
+    "withInput": "Mit Eingabe",
+    "withIcons": "Mit Symbolen"
+  },
+  "popovers": {
+    "popoverStyle": "Popover-Stil",
+    "popoverPlacement": "Pover-Platzierung"
+  },
+  "dashboard": {
+    "setupRemoteConnections": "Remote-Verbindungen einrichten",
+    "currentVisitors": "Aktuelle Besucher",
+    "charts": {
+      "trendyTrends": "Trend-Trends",
+      "showInMoreDetail": "Im Detail anzeigen",
+      "showInLessDetail": "In weniger Details anzeigen",
+      "loadingSpeed": "Ladegeschwindigkeit",
+      "topContributors": "Top-Mitwirkende",
+      "showNextFive": "Nächste fünf anzeigen",
+      "commits": "Commits"
+    },
+    "info": {
+      "componentRichTheme": "komponentenreiches Theme",
+      "completedPullRequests": "abgeschlossene Pull-Requests",
+      "users": "benutzer",
+      "points": "punkte",
+      "units": "einheiten",
+      "exploreGallery": "Galerie erkunden",
+      "viewLibrary": "Bibliothek anzeigen"
+    },
+    "tabs": {
+      "overview": {
+        "title": "Übersicht",
+        "built": "Erstellt mit Vue.js Framework",
+        "free": "Absolut kostenlos für alle",
+        "fresh": "Frisches und knuspriges Design",
+        "mobile": "Reaktionsfähig und optimiert für Handy",
+        "components": "Tonnen nützlicher Komponenten",
+        "nojQuery": "Komplett jQuery frei"
+      },
+      "billingAddress": {
+        "title": "Rechnungsadresse",
+        "personalInfo": "Persönliche Info",
+        "firstName": "Vorname & Nachname",
+        "email": "E-Mail",
+        "address": "Adresse",
+        "companyInfo": "Firmeninfo",
+        "city": "Stadt",
+        "country": "Land",
+        "infiniteConnections": "Endlose Verbindungen",
+        "addConnection": "Verbindung hinzufügen"
+      },
+      "bankDetails": {
+        "title": "Bankdetails",
+        "detailsFields": "Detailfelder",
+        "bankName": "Bankname",
+        "accountName": "Kontoname",
+        "sortCode": "Code sortieren",
+        "accountNumber": "Kundennummer",
+        "notes": "Notizen",
+        "sendDetails": "Details senden"
+      }
+    },
+    "navigationLayout": "navigationslayout",
+    "topBarButton": "Top Bar",
+    "sideBarButton": "Seitenleiste"
+  },
+  "notificationsPage": {
+    "notifications": {
+      "title": "Benachrichtigungen",
+      "gray": "Verarbeitung",
+      "dark": "Neue Bezeichnung",
+      "success": "Bezahlt",
+      "successMessage": "Sie haben diese wichtige Warnmeldung erfolgreich gelesen.",
+      "info": "Info",
+      "infoMessage": "Dieser Alarm benötigt deine Aufmerksamkeit, aber er ist nicht sehr wichtig.",
+      "warning": "Halten",
+      "warningMessage": "Überprüfen Sie sich besser, Sie sehen nicht zu gut.",
+      "danger": "Gefahr",
+      "dangerMessage": "Ändern Sie ein paar Dinge und versuchen Sie es erneut."
+    },
+    "popovers": {
+      "showPopover": "Show Popover",
+      "topTooltip": "oben",
+      "rightTooltip": "rechts",
+      "leftTooltip": "links",
+      "bottomTooltip": "unten"
+    },
+    "toasts": {
+      "title": "Toast",
+      "textLabel": "Text",
+      "durationLabel": "Dauer (Millisekunden)",
+      "launchToast": "Toast starten"
+    }
+  },
+  "forms": {
+    "controls": {
+      "title": "Checkboxen, Radios, Schalter, Schalter",
+      "unselected": "Ankreuzfeld nicht ausgewählt",
+      "selected": "Ausgewählte Checkbox",
+      "readonly": "Nur Lese-Checkbox",
+      "disabled": "Deaktivierte Checkbox",
+      "error": "Checkbox mit Fehler",
+      "errorMessage": "Checkbox mit Fehlermeldungen"
+    },
+    "dateTimePicker": {
+      "title": "Datums-Zeitauswahl",
+      "basic": "Einfache",
+      "range": "Range",
+      "manualInput": "Manuelle Eingabe",
+      "multiple": "Mehrere",
+      "disabled": "Deaktiviert",
+      "customFirstDay": "Eigener erster Tag"
+    },
+    "inputs": {
+      "title": "Inputs",
+      "username": "Benutzername"
+    },
+    "mediumEditor": {
+      "title": "Mittlerer Editor"
+    },
+    "selects": {
+      "country": "Länderauswahl",
+      "countryMulti": "Multi Länderauswahl",
+      "multi": "Mehrfachauswahl",
+      "simple": "Einfache Auswahl",
+      "searchable": "Mit Suche auswählen",
+      "searchableMulti": "Mehrfachauswahl mit Suche",
+      "title": "Auswählen"
+    }
+  },
+  "icons": {
+    "back": "Zurück zu allen Icons",
+    "none": "Keine Symbole gefunden",
+    "search": "Symbolsuche"
+  },
+  "spinners": {
+    "title": "Spinner"
+  },
+  "menu": {
+    "colorPickers": "Farbwähler"
+  },
+  "messages": {
+    "all": "Alle Nachrichten anzeigen",
+    "mark_as_read": "Als gelesen markieren"
+  },
+  "modal": {
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "large": "Groß",
+    "largeTitle": "Großes Modal",
+    "medium": "Mittel",
+    "mediumTitle": "Mittel-Modal",
+    "small": "Klein",
+    "smallTitle": "Kleines Modal",
+    "static": "Statisch",
+    "staticMessage": "Dies ist ein statischer Modal, Hintergrund oder Escap-Klick wird es nicht schließen.",
+    "staticTitle": "Statisches Modal",
+    "title": "Modale",
+    "fullscreen": "Vollbild",
+    "titleOptions": "Modale Optionen",
+    "blurred": "Unscharfe Überlagerung",
+    "withAnchorSlot": "Mit Ankerplatz",
+    "message": "Es gibt drei Arten von Zebras: die Ebenen Zebra, die Bergzebra und der Zebra von Gre<unk> vy. Die Ebenen Zebra und der Bergzebra gehören zu den Subgenus Hippotigris, aber Gre<unk> vy's\n        zebra ist die einzige Art der Subgenus\n        Dolichohippus. Letzteres ähnelt einem Ass, dem es eng mit\n        verbunden ist während die ersten zwei sind mehr\n        Pferd ähnlich. Alle drei gehören der Gattung Equus an, zusammen mit anderen lebenden\n        Ausrüstungen.",
+    "error": "Ein Fehler ist aufgetreten"
+  },
+  "fileUpload": {
+    "advancedMediaGallery": "Erweitert, Mediengalerie",
+    "advancedUploadList": "Erweitert, Upload-Liste",
+    "mediaGallery": "Mediengalerie",
+    "uploadList": "Liste hochladen",
+    "single": "Einzeln"
+  },
+  "chips": {
+    "chips": {
+      "title": "Chips",
+      "primary": "Primärer Chip",
+      "secondary": "Sekundärer Chip",
+      "success": "Erfolgschip",
+      "info": "Info-Chip",
+      "danger": "Gefahrenchip",
+      "warning": "Chip warnen",
+      "gray": "Grauer Chip",
+      "dark": "Dunkler Chip"
+    },
+    "badges": {
+      "title": "Abzeichen",
+      "primary": "Primäres Abzeichen",
+      "secondary": "Sekundäres Abzeichen",
+      "success": "Erfolgreiches Abzeichen",
+      "info": "Info-Abzeichen",
+      "danger": "Gefahrenabzeichen",
+      "warning": "Warnzeichen",
+      "gray": "Graues Abzeichen",
+      "dark": "Dunkles Abzeichen"
+    }
+  },
+  "navbar": {
+    "messageUs": "Anfragen zur Webentwicklung:",
+    "repository": "GitHub Repo"
+  },
+  "notifications": {
+    "all": "Alle Benachrichtigungen anzeigen",
+    "mark_as_read": "Als gelesen markieren"
+  },
+  "timelines": {
+    "horizontalSimple": "Einfaches Horizontal",
+    "horizontalCards": "Horizontale Karten",
+    "verticalLabel": "Vertikal mit Label",
+    "verticalCentered": "Vertikal zentriert",
+    "horizontalActionFirst": "Komplette Entwürfe",
+    "horizontalActionSecond": "Push-Site live",
+    "horizontalActionThird": "ICO starten",
+    "titleFirst": "Design erstellen",
+    "titleSecond": "App entwickeln",
+    "titleThird": "Eine App einreichen",
+    "titleDateSecond": "22. Mai 10:00",
+    "titleDateThird": "19. Juli 17:45",
+    "firstDate": "Februar 2018",
+    "secondDate": "März 2018",
+    "thirdDate": "April 2018",
+    "contentFirst": "Die einzigartigen Streifen von Zebras machen sie zu einem der Tiere, die den Menschen am vertrautesten sind. Sie treten in einer Vielzahl von Lebensräumen auf, wie Grasland, Savannen, Wälder, Dornrösche.",
+    "contentSecond": "Sie treten in einer Vielzahl von Lebensräumen auf, wie Grasland, Savannen, Wälder, Dornrösche.",
+    "contentThird": "Jedoch haben verschiedene anthropogene Faktoren schwerwiegende Auswirkungen auf die Zebrapopulationen"
+  },
+  "progressBars": {
+    "circle": "Kreis",
+    "horizontal": "Horizontal",
+    "state": "Bundesland",
+    "colors": "Farben"
+  },
+  "lists": {
+    "customers": "Kunden",
+    "recentMessages": "Letzte Nachrichten",
+    "archieved": "Erzürnt",
+    "starterKit": "Starter Kit",
+    "notifications": "Benachrichtigungen",
+    "routerSupport": "Router Unterstützung"
+  },
+  "tables": {
+    "basic": "Basis-Tabelle",
+    "stripedHoverable": "Gestreift, Hoverbar",
+    "labelsActions": "Labels, Aktionen als Tasten",
+    "sortingPaginationActionsAsIcons": "Sortierung, Pagination, Aktionen als Symbole",
+    "star": "Stern",
+    "unstar": "Stern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "searchByName": "Nach Namen suchen",
+    "searchTrendsBadges": "Suche, Trends, Abzeichen",
+    "perPage": "Pro Seite",
+    "report": "Bericht",
+    "infiniteScroll": "Unendliche Schriftrolle",
+    "selectable": "Auswählbar",
+    "selected": "Ausgewählt",
+    "serverSidePagination": "Serverseitige Paginierung",
+    "emptyTable": "Leerer Tisch",
+    "noReport": "Es gibt keine Daten zum Anzeigen. Bericht wird am 3. November 2018 verfügbar sein.",
+    "loading": "Lädt",
+    "headings": {
+      "email": "E-Mail",
+      "name": "Name",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "status": "Status",
+      "country": "Land"
+    }
+  },
+  "treeView": {
+    "basic": "Einfache",
+    "icons": "Icons",
+    "selectable": "Auswählbar",
+    "editable": "Editierbar",
+    "advanced": "Erweitert"
+  },
+  "chat": {
+    "title": "Chat",
+    "sendButton": "Senden"
+  },
+  "cards": {
+    "contentText": "Die einzigartigen Streifen von Zebras machen sie zu einem der Tiere, die den Menschen am vertrautesten sind.",
+    "contentTextLong": "Die einzigartigen Streifen von Zebras machen sie zu einem der Tiere, die den Menschen am vertrautesten sind. Sie treten in einer Vielzahl von Lebensräumen auf, wie Grasland, Savannen, Wäldern, Dornröschen, Bergen und Küstenhügeln. Verschiedene anthropogene Faktoren haben schwerwiegende Auswirkungen auf die Zebrabevölkerung, insbesondere auf die Felljagd und die Zerstörung des Lebensraums. Der Zebra von Gre<unk> vy und der Bergzebra sind gefährdet, während die Ebenen Zebras viel reicher sind, eine Subart, das Quagga.",
+    "title": {
+      "default": "Standard",
+      "withControls": "Mit Steuerung",
+      "customHeader": "Eigene Kopfzeile",
+      "withoutHeader": "Ohne Kopfzeile",
+      "withImage": "Mit Bild",
+      "withTitleOnImage": "Mit Titel auf Bild",
+      "withStripe": "Mit Streifen"
+    },
+    "button": {
+      "showMore": "Mehr anzeigen",
+      "readMore": "Mehr anzeigen"
+    }
+  },
+  "colors": {
+    "themeColors": "Theme-Farben",
+    "extraColors": "Zusätzliche Farben",
+    "gradients": {
+      "basic": {
+        "title": "Schaltflächenverläufe"
+      },
+      "hovered": {
+        "title": "Schwebte Schaltflächenverläufe",
+        "text": "Lighten 15% angewendet auf einen originalen Stil (Gradient oder flache Farbe) für den Schwebezustand."
+      },
+      "pressed": {
+        "title": "Drücken Button Farbverläufe",
+        "text": "Darken 15% auf einen originalen Stil (Farbverlauf oder flache Farbe) für gedrückten Zustand."
+      }
+    }
+  },
+  "tabs": {
+    "alignment": "Tab-Ausrichtung",
+    "overflow": "Tabs Überlauf",
+    "hidden": "Tabs mit verstecktem Slider",
+    "grow": "Tabs wachsen"
+  },
+  "facterstable": {
+    "tabletitle": "Factore",
+    "factersname": "Name",
+    "factersvalue": "Wert",
+    "facterskey": "Schlüssel"
+  },
+  "pages": {
+    "user": {}
+  },
+  "required": {}
+}
