@@ -1,130 +1,171 @@
 {
-  "404": {},
+  "404": {
+    "title": "This page's gone fishing.",
+    "text": "If you feel that it's not right, please send us a message at ",
+    "back_button": "Back to dashboard"
+  },
   "auth": {
     "agree": "Acepto",
+    "email": "Email",
     "login": "Iniciar sesión",
     "password": "Contraseña",
-    "termsOfUse": "Los terminos de uso"
+    "recover_password": "Recover password",
+    "sign_up": "Sign Up",
+    "keep_logged_in": "Keep me logged in",
+    "termsOfUse": "Los terminos de uso",
+    "reset_password": "Reset password",
+    "user": "User"
   },
-  "colorPickers": {},
+  "rating": {
+    "singleIcon": "Single Icon",
+    "twoIcons": "Two Icons",
+    "large": "Large",
+    "numbers": "Numbers",
+    "halves": "Halves",
+    "small": "Small"
+  },
+  "typography": {
+    "primary": "Primary text styles",
+    "secondary": "Secondary text styles"
+  },
   "buttons": {
     "advanced": "Iconos, Grupos, Dropdowns",
-    "size": "",
-    "tags": "",
+    "size": "Button Sizes",
+    "tags": "Button Tags",
     "button": "BOTON",
-    "buttonGroups": "",
-    "buttonsDropdown": "",
-    "split": "",
-    "splitTo": "",
-    "customIcon": "",
-    "content": "",
-    "buttonToggles": "",
-    "pagination": "",
-    "a-link": "",
-    "router-link": "",
+    "buttonGroups": "Button Groups",
+    "buttonsDropdown": "Buttons with dropdown",
+    "split": "Split",
+    "splitTo": "Split to",
+    "customIcon": "Custom icon",
+    "content": "Content",
+    "buttonToggles": "Button Toggles",
+    "pagination": "Pagination",
+    "a-link": "Open EpicSpinners",
+    "router-link": "Move to Charts",
     "colors": "Colores",
     "disabled": "DESHABILITADO",
-    "types": "",
-    "default": "",
-    "outline": "",
-    "flat": "",
-    "large": "",
-    "small": "",
-    "normal": "",
-    "success": "",
-    "info": "",
-    "danger": "",
-    "warning": "",
-    "gray": "",
-    "dark": ""
+    "types": "Button Types",
+    "default": "Default",
+    "outline": "Outline",
+    "flat": "Flat",
+    "large": "Large",
+    "small": "Small",
+    "normal": "Normal",
+    "success": "Success",
+    "info": "Info",
+    "danger": "Danger",
+    "warning": "Warning",
+    "gray": "Gray",
+    "dark": "Dark"
   },
-  "charts": {},
+  "charts": {
+    "horizontalBarChart": "Horizontal Bar Chart",
+    "verticalBarChart": "Vertical Bar Chart",
+    "lineChart": "Line Chart",
+    "pieChart": "Pie Chart",
+    "donutChart": "Donut Chart",
+    "bubbleChart": "Bubble Chart"
+  },
   "collapse": {
-    "basic": "",
-    "collapseWithBackground": "",
-    "collapseWithCustomHeader": "",
-    "firstHeader": "",
-    "secondHeader": "",
+    "basic": "Basic Collapse",
+    "collapseWithBackground": "Collapse with background",
+    "collapseWithCustomHeader": "Collapse with custom header",
+    "firstHeader": "Expand This Block",
+    "secondHeader": "Another Block",
     "content": {
-      "title": "",
-      "text": ""
+      "title": "Great Things",
+      "text": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life."
     }
   },
   "sliders": {
-    "slider": "",
-    "range": "",
-    "simple": "",
-    "value": "",
-    "label": "",
-    "labelPlusIcon": "",
-    "pins": "",
-    "pinsAndValue": "",
-    "withInput": "",
-    "withIcons": ""
+    "slider": "Sliders",
+    "range": "Ranges",
+    "simple": "simple",
+    "value": "Value",
+    "label": "Label",
+    "labelPlusIcon": "label + icon",
+    "pins": "Pins",
+    "pinsAndValue": "pins & value",
+    "withInput": "With input",
+    "withIcons": "With icons"
   },
   "popovers": {
-    "popoverStyle": "",
-    "popoverPlacement": ""
+    "popoverStyle": "Popover Style",
+    "popoverPlacement": "Popover Placement"
   },
-  "datepickers": {},
   "dashboard": {
+    "setupRemoteConnections": "Setup Remote Connections",
+    "currentVisitors": "Current Visitors",
     "charts": {
-      "trendyTrends": "",
-      "showInMoreDetail": "",
-      "showInLessDetail": "",
-      "loadingSpeed": "",
-      "topContributors": "",
-      "showNextFive": "",
-      "commits": ""
+      "trendyTrends": "Trendy Trends",
+      "showInMoreDetail": "Show in more detail",
+      "showInLessDetail": "Show in less detail",
+      "loadingSpeed": "Loading speed",
+      "topContributors": "Top contributors",
+      "showNextFive": "Show next five",
+      "commits": "Commits"
     },
     "info": {
-      "componentRichTheme": "",
-      "completedPullRequests": "",
-      "users": "",
-      "points": "",
-      "units": "",
-      "exploreGallery": "",
-      "viewLibrary": ""
+      "componentRichTheme": "component-rich theme",
+      "completedPullRequests": "completed pull requests",
+      "users": "users",
+      "points": "points",
+      "units": "units",
+      "exploreGallery": "Explore gallery",
+      "viewLibrary": "View Library"
     },
-    "table": {},
     "tabs": {
       "overview": {
-        "title": "",
-        "built": "",
-        "free": "",
-        "fresh": "",
-        "mobile": "",
-        "components": "",
-        "nojQuery": ""
+        "title": "Overview",
+        "built": "Built with Vue.js framework",
+        "free": "Absolutely free for everyone",
+        "fresh": "Fresh and crisp design",
+        "mobile": "Responsive and optimized for mobile",
+        "components": "Tons of useful components",
+        "nojQuery": "Completely jQuery free"
       },
       "billingAddress": {
-        "title": "",
-        "personalInfo": "",
-        "firstName": "",
-        "email": "",
-        "address": "",
-        "companyInfo": "",
-        "city": "",
-        "country": "",
-        "infiniteConnections": "",
-        "addConnection": ""
+        "title": "Billing Address",
+        "personalInfo": "Personal Info",
+        "firstName": "First name & Last Name",
+        "email": "Email",
+        "address": "Address",
+        "companyInfo": "Company Info",
+        "city": "City",
+        "country": "Country",
+        "infiniteConnections": "Infinite connections",
+        "addConnection": "Add Connection"
       },
       "bankDetails": {
-        "title": "",
-        "detailsFields": "",
-        "bankName": "",
-        "accountName": "",
-        "sortCode": "",
-        "accountNumber": "",
-        "notes": "",
-        "sendDetails": ""
+        "title": "Bank Details",
+        "detailsFields": "Details Fields",
+        "bankName": "Bank Name",
+        "accountName": "Account Name",
+        "sortCode": "Sort Code",
+        "accountNumber": "Account Number",
+        "notes": "Notes",
+        "sendDetails": "Send Details"
       }
     },
-    "navigationLayout": "",
-    "topBarButton": "",
-    "sideBarButton": ""
+    "navigationLayout": "navigation layout",
+    "topBarButton": "Top Bar",
+    "sideBarButton": "Side Bar"
   },
   "notificationsPage": {
+    "notifications": {
+      "title": "Notifications",
+      "gray": "Processing",
+      "dark": "New Label",
+      "success": "Paid",
+      "successMessage": "You successfully read this important alert message.",
+      "info": "Info",
+      "infoMessage": "This alert needs your attention, but it's not super important.",
+      "warning": "On Hold",
+      "warningMessage": "Better check yourself, you're not looking too good.",
+      "danger": "Danger",
+      "dangerMessage": "Change a few things up and try submitting again."
+    },
     "popovers": {
       "showPopover": "Mostrar Popover",
       "topTooltip": "tope tooltip",
@@ -132,44 +173,48 @@
       "leftTooltip": "izquierda",
       "bottomTooltip": "fondo"
     },
-    "notifications": {
-      "title": "",
-      "success": "",
-      "successMessage": "",
-      "info": "",
-      "infoMessage": "",
-      "warning": "",
-      "warningMessage": "",
-      "danger": "",
-      "dangerMessage": "",
-      "gray": "",
-      "dark": ""
-    },
     "toasts": {
-      "title": "",
-      "textLabel": "",
-      "durationLabel": "",
-      "launchToast": ""
+      "title": "Toasts",
+      "textLabel": "Text",
+      "durationLabel": "Duration (milliseconds)",
+      "launchToast": "Launch toast"
     }
   },
   "forms": {
     "controls": {
       "title": "Checkboxes, Radios, Switches",
-      "unselected": "",
-      "selected": "",
-      "readonly": "",
-      "disabled": "",
-      "error": "",
-      "errorMessage": ""
+      "unselected": "Unselected checkbox",
+      "selected": "Selected checkbox",
+      "readonly": "Readonly checkbox",
+      "disabled": "Disabled checkbox",
+      "error": "Checkbox with error",
+      "errorMessage": "Checkbox with error messages"
     },
-    "inputs": {},
-    "mediumEditor": {},
+    "dateTimePicker": {
+      "title": "Date time pickers",
+      "basic": "Basic",
+      "range": "Range",
+      "manualInput": "Manual input",
+      "multiple": "Multiple",
+      "disabled": "DESHABILITADO",
+      "customFirstDay": "Custom first day"
+    },
+    "inputs": {
+      "title": "Inputs",
+      "username": "Username"
+    },
+    "mediumEditor": {
+      "title": "Medium Editor"
+    },
     "selects": {
       "country": "País Select",
       "countryMulti": "País Multi Select",
-      "simple": "Select Simple"
-    },
-    "dateTimePicker": {}
+      "multi": "Multi Select",
+      "simple": "Select Simple",
+      "searchable": "Select with search",
+      "searchableMulti": "Multi Select with search",
+      "title": "Selects"
+    }
   },
   "icons": {
     "back": "Volver a los iconos",
@@ -177,30 +222,35 @@
     "search": "Búsqueda de iconos"
   },
   "spinners": {
-    "title": ""
+    "title": "Spinners"
   },
-  "language": {},
   "menu": {
     "colorPickers": "Selector de color"
   },
   "messages": {
     "all": "Ver todos los mensajes",
-    "mark_as_read": ""
+    "mark_as_read": "Mark As Read"
   },
   "modal": {
     "cancel": "CANCELAR",
     "confirm": "CONFIRMAR",
-    "large": "",
+    "large": "Large",
     "largeTitle": "Modal Largo",
     "medium": "Mediano",
     "mediumTitle": "Modal Mediana",
-    "small": "",
+    "small": "Small",
     "smallTitle": "Modal Pequeña",
     "static": "Estático",
     "staticMessage": "Esto es un modal estático. No se cerrará haciendo clic en el fondo.",
-    "staticTitle": "Modal Estático"
+    "staticTitle": "Modal Estático",
+    "title": "Modals",
+    "fullscreen": "Fullscreen",
+    "titleOptions": "Modal Options",
+    "blurred": "Blurred overlay",
+    "withAnchorSlot": "With anchor slot",
+    "message": "There are three species of zebras: the plains zebra, the mountain zebra and the Grévy's zebra. The plains zebra and the mountain zebra belong to the subgenus Hippotigris, but Grévy's\n        zebra is the sole species of subgenus\n        Dolichohippus. The latter resembles an ass, to which it is closely\n        related, while the former two are more\n        horse-like. All three belong to the genus Equus, along with other living\n        equids.",
+    "error": "An error occured"
   },
-  "dropdown": {},
   "fileUpload": {
     "advancedMediaGallery": "Avanzado, Galería de medios",
     "advancedUploadList": "Avanzado, lista de carga",
@@ -210,59 +260,59 @@
   },
   "chips": {
     "chips": {
-      "title": "",
-      "primary": "",
-      "secondary": "",
-      "success": "",
-      "info": "",
-      "danger": "",
-      "warning": "",
-      "gray": "",
-      "dark": ""
+      "title": "Chips",
+      "primary": "Primary chip",
+      "secondary": "Secondary chip",
+      "success": "Success chip",
+      "info": "Info chip",
+      "danger": "Danger chip",
+      "warning": "Warning chip",
+      "gray": "Gray chip",
+      "dark": "Dark chip"
     },
     "badges": {
-      "title": "",
-      "primary": "",
-      "secondary": "",
-      "success": "",
-      "info": "",
-      "danger": "",
-      "warning": "",
-      "gray": "",
-      "dark": ""
+      "title": "Badges",
+      "primary": "Primary badge",
+      "secondary": "Secondary badge",
+      "success": "Success badge",
+      "info": "Info badge",
+      "danger": "Danger badge",
+      "warning": "Warning badge",
+      "gray": "Gray badge",
+      "dark": "Dark badge"
     }
   },
   "navbar": {
     "messageUs": "Envíenos sus preguntas o comentarios a",
-    "repository": ""
+    "repository": "GitHub Repo"
   },
   "notifications": {
     "all": "Ver todos los notificaciones",
-    "mark_as_read": ""
+    "mark_as_read": "Mark as read"
   },
   "timelines": {
-    "horizontalSimple": "",
-    "horizontalCards": "",
-    "verticalLabel": "",
-    "verticalCentered": "",
-    "horizontalActionFirst": "",
-    "horizontalActionSecond": "",
-    "horizontalActionThird": "",
-    "titleFirst": "",
-    "titleSecond": "",
-    "titleThird": "",
-    "titleDateFirst": "",
-    "titleDateSecond": "",
-    "titleDateThird": "",
-    "firstDate": "",
-    "secondDate": "",
-    "thirdDate": "",
-    "contentFirst": "",
-    "contentSecond": "",
-    "contentThird": ""
+    "horizontalSimple": "Horizontal Simple",
+    "horizontalCards": "Horizontal Cards",
+    "verticalLabel": "Vertical With Label",
+    "verticalCentered": "Vertical Centered",
+    "horizontalActionFirst": "Complete drafts",
+    "horizontalActionSecond": "Push site live",
+    "horizontalActionThird": "Start ICO",
+    "titleFirst": "Make design",
+    "titleSecond": "Develop an app",
+    "titleThird": "Submit an app",
+    "titleDateSecond": "May 22 10:00",
+    "titleDateThird": "July 19 17:45",
+    "firstDate": "February 2018",
+    "secondDate": "March 2018",
+    "thirdDate": "April 2018",
+    "contentFirst": "The unique stripes of zebras make them one of the animals most familiar to people. They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands.",
+    "contentSecond": "They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands.",
+    "contentThird": "However, various anthropogenic factors have had a severe impact on zebra populations"
   },
   "progressBars": {
     "circle": "Circulo",
+    "horizontal": "Horizontal",
     "state": "Сondición",
     "colors": "Colores"
   },
@@ -271,14 +321,16 @@
     "recentMessages": "Mensajes recientes",
     "archieved": "Archivado",
     "starterKit": "Kit de inicio",
-    "notifications": "",
-    "routerSupport": ""
+    "notifications": "Notifications",
+    "routerSupport": "Router Support"
   },
   "tables": {
     "basic": "Tabla basica",
     "stripedHoverable": "Rayado, Hoverable",
     "labelsActions": "Etiquetas, Acciones como Botones",
     "sortingPaginationActionsAsIcons": "Clasificación, Paginación, Acciones como Iconos",
+    "star": "Star",
+    "unstar": "Unstar",
     "edit": "Editar",
     "delete": "Borrar",
     "searchByName": "Buscar por nombre",
@@ -293,63 +345,73 @@
     "noReport": "No hay datos para mostrar. El informe estará disponible el 3 de noviembre de 2018.",
     "loading": "Cargando",
     "headings": {
+      "email": "Email",
       "name": "Nombre",
       "firstName": "Nombre de pila",
       "lastName": "Apellido",
       "status": "Estado",
-      "country": ""
+      "country": "Country"
     }
   },
-  "chat": {},
-  "facterstable": {},
-  "pages": {
-    "user": {}
+  "treeView": {
+    "basic": "Basic",
+    "icons": "Icons",
+    "selectable": "Seleccionable",
+    "editable": "Editable",
+    "advanced": "Advanced"
   },
-  "spacingPlayground": {},
-  "spacing": {},
+  "chat": {
+    "title": "Chat",
+    "sendButton": "Send"
+  },
   "cards": {
-    "contentText": "",
-    "contentTextLong": "",
+    "contentText": "The unique stripes of zebras make them one of the animals most familiar to people.",
+    "contentTextLong": "The unique stripes of zebras make them one of the animals most familiar to people. They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands, mountains, and coastal hills. Various anthropogenic factors have had a severe impact on zebra populations, in particular hunting for skins and habitat destruction. Grévy's zebra and the mountain zebra are endangered. While plains zebras are much more plentiful, one subspecies, the quagga.",
     "title": {
-      "default": "",
-      "withControls": "",
-      "customHeader": "",
-      "withoutHeader": "",
-      "withImage": "",
-      "withTitleOnImage": "",
-      "withStripe": ""
+      "default": "Default",
+      "withControls": "With controls",
+      "customHeader": "Custom header",
+      "withoutHeader": "Without header",
+      "withImage": "With Image",
+      "withTitleOnImage": "With title on image",
+      "withStripe": "With stripe"
     },
     "button": {
-      "showMore": "",
-      "readMore": ""
-    },
-    "link": {}
+      "showMore": "Show More",
+      "readMore": "Show More"
+    }
   },
   "colors": {
-    "themeColors": "",
-    "extraColors": "",
+    "themeColors": "Theme Colors",
+    "extraColors": "Extra Colors",
     "gradients": {
       "basic": {
-        "title": ""
+        "title": "Button Gradients"
       },
       "hovered": {
-        "title": "",
-        "text": ""
+        "title": "Hovered Button Gradients",
+        "text": "Lighten 15% applied to an original style (gradient or flat color) for hover state."
       },
       "pressed": {
-        "title": "",
-        "text": ""
+        "title": "Pressed Button Gradients",
+        "text": "Darken 15% applied to an original style (gradient or flat color) for pressed state."
       }
     }
   },
   "tabs": {
-    "alignment": "",
-    "overflow": "",
-    "hidden": "",
-    "grow": ""
+    "alignment": "Tabs Alignment",
+    "overflow": "Tabs Overflow",
+    "hidden": "Tabs with Hidden slider",
+    "grow": "Tabs Grow"
   },
-  "required": {
-    "username": "",
-    "password": ""
-  }
+  "facterstable": {
+    "tabletitle": "Facters",
+    "factersname": "Nombre",
+    "factersvalue": "Value",
+    "facterskey": "Key"
+  },
+  "pages": {
+    "user": {}
+  },
+  "required": {}
 }
