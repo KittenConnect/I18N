@@ -1,0 +1,417 @@
+{
+  "404": {
+    "title": "Pesca de esta página",
+    "text": "Si crees que no es correcto, por favor envíanos un mensaje a",
+    "back_button": "Volver al panel"
+  },
+  "auth": {
+    "agree": "Acepto",
+    "email": "E-mail",
+    "login": "Iniciar sesión",
+    "password": "Contraseña",
+    "recover_password": "Recuperar contraseña",
+    "sign_up": "Regístrate",
+    "keep_logged_in": "Mantenerme conectado",
+    "termsOfUse": "Los terminos de uso",
+    "reset_password": "Restablecer contraseña",
+    "user": "Usuario"
+  },
+  "rating": {
+    "singleIcon": "Icono único",
+    "twoIcons": "Dos iconos",
+    "large": "Largo",
+    "numbers": "Números",
+    "halves": "Halves",
+    "small": "Pequeño"
+  },
+  "typography": {
+    "primary": "Estilos de texto primario",
+    "secondary": "Estilos de texto secundario"
+  },
+  "buttons": {
+    "advanced": "Iconos, Grupos, Dropdowns",
+    "size": "Tamaños del botón",
+    "tags": "Etiquetas de botón",
+    "button": "BOTON",
+    "buttonGroups": "Grupos de botones",
+    "buttonsDropdown": "Botones con desplegable",
+    "split": "Dividir",
+    "splitTo": "Dividir en",
+    "customIcon": "Icono personalizado",
+    "content": "Contenido",
+    "buttonToggles": "Botón alterna",
+    "pagination": "Paginación",
+    "a-link": "Open EpicSpinners",
+    "router-link": "Mover a Gráficos",
+    "colors": "Colores",
+    "disabled": "DESHABILITADO",
+    "types": "Tipos de botón",
+    "default": "Por defecto",
+    "outline": "Fuera",
+    "flat": "Plano",
+    "large": "Largo",
+    "small": "Pequeño",
+    "normal": "Normal",
+    "success": "Éxito",
+    "info": "Info",
+    "danger": "Peligro",
+    "warning": "Advertencia",
+    "gray": "Gris",
+    "dark": "Oscuro"
+  },
+  "charts": {
+    "horizontalBarChart": "Gráfico de barras horizontales",
+    "verticalBarChart": "Gráfico de barras vertical",
+    "lineChart": "Gráfico de línea",
+    "pieChart": "Gráfico de Pie",
+    "donutChart": "Donut Chart",
+    "bubbleChart": "Gráfico de Bubble"
+  },
+  "collapse": {
+    "basic": "Colapso básico",
+    "collapseWithBackground": "Colapsar con fondo",
+    "collapseWithCustomHeader": "Colapsar con cabecera personalizada",
+    "firstHeader": "Expandir este bloque",
+    "secondHeader": "Otro bloque",
+    "content": {
+      "title": "Grandes cosas",
+      "text": "Hay algo sobre la paréntesis que nos da un sentido de la historia y un deseo profundamente arraigado de enviar a la próxima generación las grandes cosas que hemos descubierto sobre la vida."
+    }
+  },
+  "sliders": {
+    "slider": "Deslizadores",
+    "range": "Rangos",
+    "simple": "simple",
+    "value": "Valor",
+    "label": "Etiqueta",
+    "labelPlusIcon": "etiqueta + icono",
+    "pins": "Pins",
+    "pinsAndValue": "pines y valor",
+    "withInput": "Con entrada",
+    "withIcons": "Con iconos"
+  },
+  "popovers": {
+    "popoverStyle": "Estilo Pover",
+    "popoverPlacement": "Ubicación del Pover"
+  },
+  "dashboard": {
+    "setupRemoteConnections": "Configurar conexiones remotas",
+    "currentVisitors": "Visitantes actuales",
+    "charts": {
+      "trendyTrends": "Tendencias de moda",
+      "showInMoreDetail": "Mostrar con más detalle",
+      "showInLessDetail": "Mostrar con menos detalle",
+      "loadingSpeed": "Velocidad de carga",
+      "topContributors": "Mejores colaboradores",
+      "showNextFive": "Mostrar cinco siguientes",
+      "commits": "Compromisos"
+    },
+    "info": {
+      "componentRichTheme": "tema rico en componentes",
+      "completedPullRequests": "solicitudes de pull completadas",
+      "users": "usuarios",
+      "points": "puntos",
+      "units": "unidades",
+      "exploreGallery": "Explorar galería",
+      "viewLibrary": "Ver biblioteca"
+    },
+    "tabs": {
+      "overview": {
+        "title": "Resumen",
+        "built": "Construido con framework Vue.js",
+        "free": "Totalmente gratis para todos",
+        "fresh": "Diseño fresco y fresco",
+        "mobile": "Responsivo y optimizado para móviles",
+        "components": "Toneladas de componentes útiles",
+        "nojQuery": "Completamente gratis jQuery"
+      },
+      "billingAddress": {
+        "title": "Dirección de facturación",
+        "personalInfo": "Información Personal",
+        "firstName": "Nombre y apellido",
+        "email": "E-mail",
+        "address": "Dirección",
+        "companyInfo": "Información de la empresa",
+        "city": "Ciudad",
+        "country": "País",
+        "infiniteConnections": "Conexiones infinitas",
+        "addConnection": "Añadir conexión"
+      },
+      "bankDetails": {
+        "title": "Detalles bancarios",
+        "detailsFields": "Campos de detalles",
+        "bankName": "Nombre del Banco",
+        "accountName": "Nombre de cuenta",
+        "sortCode": "Ordenar código",
+        "accountNumber": "Número de cuenta",
+        "notes": "Notas",
+        "sendDetails": "Enviar detalles"
+      }
+    },
+    "navigationLayout": "diseño de navegación",
+    "topBarButton": "Barra superior",
+    "sideBarButton": "Barra lateral"
+  },
+  "notificationsPage": {
+    "notifications": {
+      "title": "Notificaciones",
+      "gray": "Procesando",
+      "dark": "Nueva etiqueta",
+      "success": "Pagado",
+      "successMessage": "Has leído con éxito este importante mensaje de alerta.",
+      "info": "Info",
+      "infoMessage": "Esta alerta necesita su atención, pero no es súper importante.",
+      "warning": "En espera",
+      "warningMessage": "Mejor compruébalo a ti mismo, no te ves demasiado bien.",
+      "danger": "Peligro",
+      "dangerMessage": "Cambie algunas cosas y vuelva a intentarlo."
+    },
+    "popovers": {
+      "showPopover": "Mostrar Popover",
+      "topTooltip": "tope tooltip",
+      "rightTooltip": "derecha tooltip",
+      "leftTooltip": "izquierda",
+      "bottomTooltip": "fondo"
+    },
+    "toasts": {
+      "title": "Tostadas",
+      "textLabel": "Texto",
+      "durationLabel": "Duración (milisegundos)",
+      "launchToast": "Iniciar brindis"
+    }
+  },
+  "forms": {
+    "controls": {
+      "title": "Checkboxes, Radios, Switches",
+      "unselected": "Casilla no seleccionada",
+      "selected": "Casilla seleccionada",
+      "readonly": "Casilla de sólo lectura",
+      "disabled": "Casilla de verificación desactivada",
+      "error": "Checkbox con error",
+      "errorMessage": "Checkbox con mensajes de error"
+    },
+    "dateTimePicker": {
+      "title": "Selectores de fecha y hora",
+      "basic": "Básico",
+      "range": "Range",
+      "manualInput": "Entrada manual",
+      "multiple": "Múltiples",
+      "disabled": "DESHABILITADO",
+      "customFirstDay": "Primer día personalizado"
+    },
+    "inputs": {
+      "title": "Inputs",
+      "username": "Usuario"
+    },
+    "mediumEditor": {
+      "title": "Editor Medio"
+    },
+    "selects": {
+      "country": "País Select",
+      "countryMulti": "País Multi Select",
+      "multi": "Selección múltiple",
+      "simple": "Select Simple",
+      "searchable": "Seleccionar con búsqueda",
+      "searchableMulti": "Selección múltiple con búsqueda",
+      "title": "Selecciona"
+    }
+  },
+  "icons": {
+    "back": "Volver a los iconos",
+    "none": "No se han encontrado iconos",
+    "search": "Búsqueda de iconos"
+  },
+  "spinners": {
+    "title": "Espinilleros"
+  },
+  "menu": {
+    "colorPickers": "Selector de color"
+  },
+  "messages": {
+    "all": "Ver todos los mensajes",
+    "mark_as_read": "Marcar como leído"
+  },
+  "modal": {
+    "cancel": "CANCELAR",
+    "confirm": "CONFIRMAR",
+    "large": "Largo",
+    "largeTitle": "Modal Largo",
+    "medium": "Mediano",
+    "mediumTitle": "Modal Mediana",
+    "small": "Pequeño",
+    "smallTitle": "Modal Pequeña",
+    "static": "Estático",
+    "staticMessage": "Esto es un modal estático. No se cerrará haciendo clic en el fondo.",
+    "staticTitle": "Modal Estático",
+    "title": "Modales",
+    "fullscreen": "Pantalla completa",
+    "titleOptions": "Opciones de Modal",
+    "blurred": "Capa borrosa",
+    "withAnchorSlot": "Con ranura de ancla",
+    "message": "There are three species of zebras: the plains zebra, the mountain zebra and the Grévy's zebra. The plains zebra and the mountain zebra belong to the subgenus Hippotigris, but Grévy's\n        zebra is the sole species of subgenus\n        Dolichohippus. The latter resembles an ass, to which it is closely\n        related, while the former two are more\n        horse-like. All three belong to the genus Equus, along with other living\n        equids.",
+    "error": "Se ha producido un error"
+  },
+  "fileUpload": {
+    "advancedMediaGallery": "Avanzado, Galería de medios",
+    "advancedUploadList": "Avanzado, lista de carga",
+    "mediaGallery": "Galería media",
+    "uploadList": "Lista de carga",
+    "single": "Soltero"
+  },
+  "chips": {
+    "chips": {
+      "title": "Fichas",
+      "primary": "Ficha primaria",
+      "secondary": "Ficha secundaria",
+      "success": "Ficha de éxito",
+      "info": "Info chip",
+      "danger": "Ficha de peligro",
+      "warning": "Ficha de advertencia",
+      "gray": "Ficha gris",
+      "dark": "Ficha oscura"
+    },
+    "badges": {
+      "title": "Insignias",
+      "primary": "Insignia primaria",
+      "secondary": "Insignia secundaria",
+      "success": "Insignia de éxito",
+      "info": "Info insignia",
+      "danger": "Insignia de peligro",
+      "warning": "Insignia de Advertencia",
+      "gray": "Insignia gris",
+      "dark": "Insignia oscura"
+    }
+  },
+  "navbar": {
+    "messageUs": "Envíenos sus preguntas o comentarios a",
+    "repository": "GitHub Repo"
+  },
+  "notifications": {
+    "all": "Ver todos los notificaciones",
+    "mark_as_read": "Marcar como leído"
+  },
+  "timelines": {
+    "horizontalSimple": "Simple horizontal",
+    "horizontalCards": "Tarjetas horizontales",
+    "verticalLabel": "Vertical con etiqueta",
+    "verticalCentered": "Centrado vertical",
+    "horizontalActionFirst": "Completa borradores",
+    "horizontalActionSecond": "Sitio Push en vivo",
+    "horizontalActionThird": "Iniciar ICO",
+    "titleFirst": "Hacer diseño",
+    "titleSecond": "Desarrollar una aplicación",
+    "titleThird": "Enviar una aplicación",
+    "titleDateSecond": "22 de mayo de 10:00",
+    "titleDateThird": "19 de julio 17:45",
+    "firstDate": "Febrero de 2018",
+    "secondDate": "Marzo de 2018",
+    "thirdDate": "Abril de 2018",
+    "contentFirst": "Las rayas únicas de cebras las convierten en uno de los animales más familiares para la gente. Se producen en una variedad de hábitats, como pastizales, sabanas, bosques, escrutinios rigurosos.",
+    "contentSecond": "Se producen en una variedad de hábitats, como pastizales, sabanas, bosques, escrutinios rigurosos.",
+    "contentThird": "Sin embargo, varios factores antropogénicos han tenido un impacto grave en las poblaciones de cero."
+  },
+  "progressBars": {
+    "circle": "Circulo",
+    "horizontal": "Horizontal",
+    "state": "Сondición",
+    "colors": "Colores"
+  },
+  "lists": {
+    "customers": "Clientes",
+    "recentMessages": "Mensajes recientes",
+    "archieved": "Archivado",
+    "starterKit": "Kit de inicio",
+    "notifications": "Notificaciones",
+    "routerSupport": "Soporte de Router"
+  },
+  "tables": {
+    "basic": "Tabla basica",
+    "stripedHoverable": "Rayado, Hoverable",
+    "labelsActions": "Etiquetas, Acciones como Botones",
+    "sortingPaginationActionsAsIcons": "Clasificación, Paginación, Acciones como Iconos",
+    "star": "Estrella",
+    "unstar": "No estrella",
+    "edit": "Editar",
+    "delete": "Borrar",
+    "searchByName": "Buscar por nombre",
+    "searchTrendsBadges": "Búsqueda, Tendencias, Insignias",
+    "perPage": "Por página",
+    "report": "Informe",
+    "infiniteScroll": "Scroll infinito",
+    "selectable": "Seleccionable",
+    "selected": "Seleccionado",
+    "serverSidePagination": "Server-Side Paginación",
+    "emptyTable": "Mesa vacía",
+    "noReport": "No hay datos para mostrar. El informe estará disponible el 3 de noviembre de 2018.",
+    "loading": "Cargando",
+    "headings": {
+      "email": "E-mail",
+      "name": "Nombre",
+      "firstName": "Nombre de pila",
+      "lastName": "Apellido",
+      "status": "Estado",
+      "country": "País"
+    }
+  },
+  "treeView": {
+    "basic": "Básico",
+    "icons": "Iconos",
+    "selectable": "Seleccionable",
+    "editable": "Editable",
+    "advanced": "Avanzado"
+  },
+  "chat": {
+    "title": "Chatear",
+    "sendButton": "Enviar"
+  },
+  "cards": {
+    "contentText": "Las rayas únicas de cebras las convierten en uno de los animales más familiares para la gente.",
+    "contentTextLong": "Las rayas únicas de cebras las convierten en uno de los animales más familiares para la gente. Se producen en una variedad de hábitats, como pastizales, sabanas, bosques, escrutinios exhaustivos, montañas y colinas costeras. Los diversos factores antropogénicos han tenido un impacto grave en las poblaciones de cero, en particular la caza de pieles y la destrucción del hábitat. Las cebras son mucho más abundantes, una subespecie, el quagga.",
+    "title": {
+      "default": "Por defecto",
+      "withControls": "Con controles",
+      "customHeader": "Cabecera personalizada",
+      "withoutHeader": "Sin cabecera",
+      "withImage": "Con imagen",
+      "withTitleOnImage": "Con título en la imagen",
+      "withStripe": "Con rayas"
+    },
+    "button": {
+      "showMore": "Mostrar más",
+      "readMore": "Mostrar más"
+    }
+  },
+  "colors": {
+    "themeColors": "Colores del tema",
+    "extraColors": "Colores Extra",
+    "gradients": {
+      "basic": {
+        "title": "Gradientes de botón"
+      },
+      "hovered": {
+        "title": "Gradientes del botón flotante",
+        "text": "Iluminar 15% aplicado a un estilo original (degradado o de color plano) para pasar el ratón."
+      },
+      "pressed": {
+        "title": "Gradientes del botón presionado",
+        "text": "15% oscuro aplicado a un estilo original (degradado o de color plano) para estado presionado."
+      }
+    }
+  },
+  "tabs": {
+    "alignment": "Alineación de pestañas",
+    "overflow": "Desbordamiento de pestañas",
+    "hidden": "Pestañas con deslizador oculto",
+    "grow": "Las pestañas crecen"
+  },
+  "facterstable": {
+    "tabletitle": "Fábricas",
+    "factersname": "Nombre",
+    "factersvalue": "Valor",
+    "facterskey": "Clave"
+  },
+  "pages": {
+    "user": {}
+  },
+  "required": {}
+}
