@@ -1,0 +1,355 @@
+{
+  "404": {},
+  "auth": {
+    "agree": "Acepto",
+    "login": "Iniciar sesión",
+    "password": "Contraseña",
+    "termsOfUse": "Los terminos de uso"
+  },
+  "colorPickers": {},
+  "buttons": {
+    "advanced": "Iconos, Grupos, Dropdowns",
+    "size": "",
+    "tags": "",
+    "button": "BOTON",
+    "buttonGroups": "",
+    "buttonsDropdown": "",
+    "split": "",
+    "splitTo": "",
+    "customIcon": "",
+    "content": "",
+    "buttonToggles": "",
+    "pagination": "",
+    "a-link": "",
+    "router-link": "",
+    "colors": "Colores",
+    "disabled": "DESHABILITADO",
+    "types": "",
+    "default": "",
+    "outline": "",
+    "flat": "",
+    "large": "",
+    "small": "",
+    "normal": "",
+    "success": "",
+    "info": "",
+    "danger": "",
+    "warning": "",
+    "gray": "",
+    "dark": ""
+  },
+  "charts": {},
+  "collapse": {
+    "basic": "",
+    "collapseWithBackground": "",
+    "collapseWithCustomHeader": "",
+    "firstHeader": "",
+    "secondHeader": "",
+    "content": {
+      "title": "",
+      "text": ""
+    }
+  },
+  "sliders": {
+    "slider": "",
+    "range": "",
+    "simple": "",
+    "value": "",
+    "label": "",
+    "labelPlusIcon": "",
+    "pins": "",
+    "pinsAndValue": "",
+    "withInput": "",
+    "withIcons": ""
+  },
+  "popovers": {
+    "popoverStyle": "",
+    "popoverPlacement": ""
+  },
+  "datepickers": {},
+  "dashboard": {
+    "charts": {
+      "trendyTrends": "",
+      "showInMoreDetail": "",
+      "showInLessDetail": "",
+      "loadingSpeed": "",
+      "topContributors": "",
+      "showNextFive": "",
+      "commits": ""
+    },
+    "info": {
+      "componentRichTheme": "",
+      "completedPullRequests": "",
+      "users": "",
+      "points": "",
+      "units": "",
+      "exploreGallery": "",
+      "viewLibrary": ""
+    },
+    "table": {},
+    "tabs": {
+      "overview": {
+        "title": "",
+        "built": "",
+        "free": "",
+        "fresh": "",
+        "mobile": "",
+        "components": "",
+        "nojQuery": ""
+      },
+      "billingAddress": {
+        "title": "",
+        "personalInfo": "",
+        "firstName": "",
+        "email": "",
+        "address": "",
+        "companyInfo": "",
+        "city": "",
+        "country": "",
+        "infiniteConnections": "",
+        "addConnection": ""
+      },
+      "bankDetails": {
+        "title": "",
+        "detailsFields": "",
+        "bankName": "",
+        "accountName": "",
+        "sortCode": "",
+        "accountNumber": "",
+        "notes": "",
+        "sendDetails": ""
+      }
+    },
+    "navigationLayout": "",
+    "topBarButton": "",
+    "sideBarButton": ""
+  },
+  "notificationsPage": {
+    "popovers": {
+      "showPopover": "Mostrar Popover",
+      "topTooltip": "tope tooltip",
+      "rightTooltip": "derecha tooltip",
+      "leftTooltip": "izquierda",
+      "bottomTooltip": "fondo"
+    },
+    "notifications": {
+      "title": "",
+      "success": "",
+      "successMessage": "",
+      "info": "",
+      "infoMessage": "",
+      "warning": "",
+      "warningMessage": "",
+      "danger": "",
+      "dangerMessage": "",
+      "gray": "",
+      "dark": ""
+    },
+    "toasts": {
+      "title": "",
+      "textLabel": "",
+      "durationLabel": "",
+      "launchToast": ""
+    }
+  },
+  "forms": {
+    "controls": {
+      "title": "Checkboxes, Radios, Switches",
+      "unselected": "",
+      "selected": "",
+      "readonly": "",
+      "disabled": "",
+      "error": "",
+      "errorMessage": ""
+    },
+    "inputs": {},
+    "mediumEditor": {},
+    "selects": {
+      "country": "País Select",
+      "countryMulti": "País Multi Select",
+      "simple": "Select Simple"
+    },
+    "dateTimePicker": {}
+  },
+  "icons": {
+    "back": "Volver a los iconos",
+    "none": "No se han encontrado iconos",
+    "search": "Búsqueda de iconos"
+  },
+  "spinners": {
+    "title": ""
+  },
+  "language": {},
+  "menu": {
+    "colorPickers": "Selector de color"
+  },
+  "messages": {
+    "all": "Ver todos los mensajes",
+    "mark_as_read": ""
+  },
+  "modal": {
+    "cancel": "CANCELAR",
+    "confirm": "CONFIRMAR",
+    "large": "",
+    "largeTitle": "Modal Largo",
+    "medium": "Mediano",
+    "mediumTitle": "Modal Mediana",
+    "small": "",
+    "smallTitle": "Modal Pequeña",
+    "static": "Estático",
+    "staticMessage": "Esto es un modal estático. No se cerrará haciendo clic en el fondo.",
+    "staticTitle": "Modal Estático"
+  },
+  "dropdown": {},
+  "fileUpload": {
+    "advancedMediaGallery": "Avanzado, Galería de medios",
+    "advancedUploadList": "Avanzado, lista de carga",
+    "mediaGallery": "Galería media",
+    "uploadList": "Lista de carga",
+    "single": "Soltero"
+  },
+  "chips": {
+    "chips": {
+      "title": "",
+      "primary": "",
+      "secondary": "",
+      "success": "",
+      "info": "",
+      "danger": "",
+      "warning": "",
+      "gray": "",
+      "dark": ""
+    },
+    "badges": {
+      "title": "",
+      "primary": "",
+      "secondary": "",
+      "success": "",
+      "info": "",
+      "danger": "",
+      "warning": "",
+      "gray": "",
+      "dark": ""
+    }
+  },
+  "navbar": {
+    "messageUs": "Envíenos sus preguntas o comentarios a",
+    "repository": ""
+  },
+  "notifications": {
+    "all": "Ver todos los notificaciones",
+    "mark_as_read": ""
+  },
+  "timelines": {
+    "horizontalSimple": "",
+    "horizontalCards": "",
+    "verticalLabel": "",
+    "verticalCentered": "",
+    "horizontalActionFirst": "",
+    "horizontalActionSecond": "",
+    "horizontalActionThird": "",
+    "titleFirst": "",
+    "titleSecond": "",
+    "titleThird": "",
+    "titleDateFirst": "",
+    "titleDateSecond": "",
+    "titleDateThird": "",
+    "firstDate": "",
+    "secondDate": "",
+    "thirdDate": "",
+    "contentFirst": "",
+    "contentSecond": "",
+    "contentThird": ""
+  },
+  "progressBars": {
+    "circle": "Circulo",
+    "state": "Сondición",
+    "colors": "Colores"
+  },
+  "lists": {
+    "customers": "Clientes",
+    "recentMessages": "Mensajes recientes",
+    "archieved": "Archivado",
+    "starterKit": "Kit de inicio",
+    "notifications": "",
+    "routerSupport": ""
+  },
+  "tables": {
+    "basic": "Tabla basica",
+    "stripedHoverable": "Rayado, Hoverable",
+    "labelsActions": "Etiquetas, Acciones como Botones",
+    "sortingPaginationActionsAsIcons": "Clasificación, Paginación, Acciones como Iconos",
+    "edit": "Editar",
+    "delete": "Borrar",
+    "searchByName": "Buscar por nombre",
+    "searchTrendsBadges": "Búsqueda, Tendencias, Insignias",
+    "perPage": "Por página",
+    "report": "Informe",
+    "infiniteScroll": "Scroll infinito",
+    "selectable": "Seleccionable",
+    "selected": "Seleccionado",
+    "serverSidePagination": "Server-Side Paginación",
+    "emptyTable": "Mesa vacía",
+    "noReport": "No hay datos para mostrar. El informe estará disponible el 3 de noviembre de 2018.",
+    "loading": "Cargando",
+    "headings": {
+      "name": "Nombre",
+      "firstName": "Nombre de pila",
+      "lastName": "Apellido",
+      "status": "Estado",
+      "country": ""
+    }
+  },
+  "chat": {},
+  "facterstable": {},
+  "pages": {
+    "user": {}
+  },
+  "spacingPlayground": {},
+  "spacing": {},
+  "cards": {
+    "contentText": "",
+    "contentTextLong": "",
+    "title": {
+      "default": "",
+      "withControls": "",
+      "customHeader": "",
+      "withoutHeader": "",
+      "withImage": "",
+      "withTitleOnImage": "",
+      "withStripe": ""
+    },
+    "button": {
+      "showMore": "",
+      "readMore": ""
+    },
+    "link": {}
+  },
+  "colors": {
+    "themeColors": "",
+    "extraColors": "",
+    "gradients": {
+      "basic": {
+        "title": ""
+      },
+      "hovered": {
+        "title": "",
+        "text": ""
+      },
+      "pressed": {
+        "title": "",
+        "text": ""
+      }
+    }
+  },
+  "tabs": {
+    "alignment": "",
+    "overflow": "",
+    "hidden": "",
+    "grow": ""
+  },
+  "required": {
+    "username": "",
+    "password": ""
+  }
+}

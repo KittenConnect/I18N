@@ -1,0 +1,73 @@
+{
+  "404": {},
+  "auth": {
+    "agree": "J'accepte"
+  },
+  "messages": {},
+  "notifications": {},
+  "dashboard": {
+    "tabs": {
+      "bankDetails": {},
+      "billingAddress": {},
+      "overview": {}
+    },
+    "charts": {},
+    "info": {}
+  },
+  "navbar": {},
+  "facterstable": {},
+  "forms": {
+    "dateTimePicker": {},
+    "selects": {},
+    "controls": {},
+    "inputs": {},
+    "mediumEditor": {}
+  },
+  "pages": {
+    "user": {}
+  },
+  "buttons": {},
+  "cards": {
+    "title": {},
+    "button": {}
+  },
+  "chat": {},
+  "chips": {
+    "chips": {},
+    "badges": {}
+  },
+  "collapse": {
+    "content": {}
+  },
+  "colors": {
+    "gradients": {
+      "basic": {},
+      "hovered": {},
+      "pressed": {}
+    }
+  },
+  "lists": {},
+  "modal": {},
+  "notificationsPage": {
+    "notifications": {},
+    "toasts": {},
+    "popovers": {}
+  },
+  "popovers": {},
+  "rating": {},
+  "sliders": {},
+  "spinners": {},
+  "tabs": {},
+  "timelines": {},
+  "treeView": {},
+  "typography": {},
+  "required": {},
+  "tables": {
+    "headings": {}
+  },
+  "charts": {},
+  "progressBars": {},
+  "menu": {},
+  "fileUpload": {},
+  "icons": {}
+}
