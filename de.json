@@ -1,4 +1,7 @@
 {
+  "madeby": {
+    "kitten": "Made with {heart} by KittenConnect members"
+  },
   "404": {
     "title": "Diese Seite ist nicht mehr fischen",
     "text": "Wenn Sie der Meinung sind, dass es nicht stimmt, senden Sie uns bitte eine Nachricht unter",
