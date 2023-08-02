@@ -1,4 +1,7 @@
 {
+  "madeby": {
+    "kitten": "Made with {heart} by KittenConnect members"
+  },
   "404": {
     "title": "هذه الصفحة ذهبت للصيد",
     "text": "إذا كنت تشعر أنها ليست صحيحة ، يرجى إرسال رسالة إلينا على",
